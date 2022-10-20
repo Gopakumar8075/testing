@@ -1,0 +1,7 @@
+.headerMain {
+  @apply flex justify-between lg:py-6 2xs:py-4 sm:pl-8 2xs:pl-6 lg:pr-2 2xs:pr-6 bg-[#030207] sticky z-[9] top-0 w-full;
+}
+
+.title {
+  @apply uppercase text-transparent cursor-pointer flex items-center;
+}

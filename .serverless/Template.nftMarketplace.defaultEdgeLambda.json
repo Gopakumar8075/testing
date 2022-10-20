@@ -1,0 +1,17 @@
+{
+  "name": "7nmbjn-et18eeq",
+  "hash": "ApLgdymy8HS0G9wT9huQ1thP8wuH7R6fWE1VQNjPneQ=",
+  "description": "Default Lambda@Edge for Next CloudFront distribution",
+  "memory": 512,
+  "timeout": 10,
+  "code": "/Users/sarath/projects/own-nft-marketplace/NFT-marketplace-nextjs/.serverless_nextjs/default-lambda",
+  "shims": [],
+  "handler": "index.handler",
+  "runtime": "nodejs14.x",
+  "env": {},
+  "role": {
+    "arn": "arn:aws:iam::055930232664:role/7nmbjn-bargjg"
+  },
+  "arn": "arn:aws:lambda:us-east-1:055930232664:function:7nmbjn-et18eeq",
+  "region": "us-east-1"
+}

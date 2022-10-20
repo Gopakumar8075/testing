@@ -1,0 +1,878 @@
+[
+  {
+    "_id": "6346518843cbcb3f90d83c8f",
+    "tokenId": 94,
+    "name": "Abhijith",
+    "ownerAddress": "0xb419d78BC0EC428A9b5Dd0693E329f6B972A1f85",
+    "isOnSale": false,
+    "metadata": {
+      "name": "Abhijith",
+      "image": "https://bafybeidr5rzz433s7tcn4pzcbjs427b7z2aa3xdi4cj46jdwj7xsf2vsxm.ipfs.nftstorage.link/94.png",
+      "description": "Developer",
+      "attributes": [
+        {
+          "traitType": "Background",
+          "value": "Gray Green",
+          "_id": "6346518843cbcb3f90d83c91"
+        },
+        {
+          "traitType": "Body",
+          "value": "Skin",
+          "_id": "6346518843cbcb3f90d83c92"
+        },
+        {
+          "traitType": "Dress",
+          "value": "Grey",
+          "_id": "6346518843cbcb3f90d83c93"
+        },
+        {
+          "traitType": "Head",
+          "value": "Light Brown",
+          "_id": "6346518843cbcb3f90d83c94"
+        },
+        {
+          "traitType": "Eey",
+          "value": "Surprised",
+          "_id": "6346518843cbcb3f90d83c95"
+        },
+        {
+          "traitType": "Hat",
+          "value": "Dark Brown Hat",
+          "_id": "6346518843cbcb3f90d83c96"
+        },
+        {
+          "traitType": "Mouth",
+          "value": "Angry",
+          "_id": "6346518843cbcb3f90d83c97"
+        },
+        {
+          "traitType": "Nose",
+          "value": "Brown",
+          "_id": "6346518843cbcb3f90d83c98"
+        }
+      ],
+      "_id": "6346518843cbcb3f90d83c90"
+    },
+    "collectionItem": "632c519d55163e21cf7372bd",
+    "network": {
+      "_id": "632c5121e1d4ae1a6dd73b41",
+      "name": "Goerli",
+      "displayName": "Ethereum (Goerli)",
+      "createdAt": "2022-09-22T12:12:17.426Z",
+      "updatedAt": "2022-09-22T12:12:17.426Z",
+      "chainId": "5",
+      "blockExplorerUrl": "https://goerli.etherscan.io",
+      "rpcUrl": "https://goerli.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
+      "tokenName": "ETH",
+      "tokenImage": "https://nft-thumbnail-test.s3.ap-south-1.amazonaws.com/tokens/ethereum.png",
+      "auctionContractAddress": "0xefD911978E1CF630b78a8eEe2cA6202c4aD2B3f3",
+      "marketplaceContractAddress": "0xDE65e4315DAEee068dD35Ff2Ec0B633eab2d15e9"
+    },
+    "thumbnailImage": "https://nft-thumbnail-test.s3.ap-south-1.amazonaws.com/lazy_lion/94.png",
+    "updatedAt": "2022-10-12T05:32:56.993Z",
+    "createdAt": "2022-10-12T05:32:56.993Z"
+  },
+  {
+    "_id": "6346518943cbcb3f90d83cbb",
+    "tokenId": 85,
+    "name": "Midhun",
+    "ownerAddress": "0xb419d78BC0EC428A9b5Dd0693E329f6B972A1f85",
+    "isOnSale": false,
+    "metadata": {
+      "name": "Midhun",
+      "image": "https://bafybeidr5rzz433s7tcn4pzcbjs427b7z2aa3xdi4cj46jdwj7xsf2vsxm.ipfs.nftstorage.link/85.png",
+      "description": "PHP Developer",
+      "attributes": [
+        {
+          "traitType": "Background",
+          "value": "Dark Blue",
+          "_id": "6346518943cbcb3f90d83cbd"
+        },
+        {
+          "traitType": "Body",
+          "value": "Skin",
+          "_id": "6346518943cbcb3f90d83cbe"
+        },
+        {
+          "traitType": "Dress",
+          "value": "Grey",
+          "_id": "6346518943cbcb3f90d83cbf"
+        },
+        {
+          "traitType": "Head",
+          "value": "Light Brown",
+          "_id": "6346518943cbcb3f90d83cc0"
+        },
+        {
+          "traitType": "Eey",
+          "value": "Sad",
+          "_id": "6346518943cbcb3f90d83cc1"
+        },
+        {
+          "traitType": "Hat",
+          "value": "Dark Brown Hat",
+          "_id": "6346518943cbcb3f90d83cc2"
+        },
+        {
+          "traitType": "Mouth",
+          "value": "Happy",
+          "_id": "6346518943cbcb3f90d83cc3"
+        },
+        {
+          "traitType": "Nose",
+          "value": "Dark Red",
+          "_id": "6346518943cbcb3f90d83cc4"
+        }
+      ],
+      "_id": "6346518943cbcb3f90d83cbc"
+    },
+    "collectionItem": "632c519d55163e21cf7372bd",
+    "network": {
+      "_id": "632c5121e1d4ae1a6dd73b41",
+      "name": "Goerli",
+      "displayName": "Ethereum (Goerli)",
+      "createdAt": "2022-09-22T12:12:17.426Z",
+      "updatedAt": "2022-09-22T12:12:17.426Z",
+      "chainId": "5",
+      "blockExplorerUrl": "https://goerli.etherscan.io",
+      "rpcUrl": "https://goerli.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
+      "tokenName": "ETH",
+      "tokenImage": "https://nft-thumbnail-test.s3.ap-south-1.amazonaws.com/tokens/ethereum.png",
+      "auctionContractAddress": "0xefD911978E1CF630b78a8eEe2cA6202c4aD2B3f3",
+      "marketplaceContractAddress": "0xDE65e4315DAEee068dD35Ff2Ec0B633eab2d15e9"
+    },
+    "thumbnailImage": "https://nft-thumbnail-test.s3.ap-south-1.amazonaws.com/lazy_lion/85.png",
+    "updatedAt": "2022-10-12T05:32:57.080Z",
+    "createdAt": "2022-10-12T05:32:57.080Z"
+  },
+  {
+    "_id": "6346518843cbcb3f90d83bf6",
+    "tokenId": 24,
+    "name": "Rakesh",
+    "ownerAddress": "0xb419d78BC0EC428A9b5Dd0693E329f6B972A1f85",
+    "isOnSale": false,
+    "metadata": {
+      "name": "Rakesh",
+      "image": "https://bafybeidr5rzz433s7tcn4pzcbjs427b7z2aa3xdi4cj46jdwj7xsf2vsxm.ipfs.nftstorage.link/24.png",
+      "description": "DOT NET Developer",
+      "attributes": [
+        {
+          "traitType": "Background",
+          "value": "Gray Green",
+          "_id": "6346518843cbcb3f90d83bf8"
+        },
+        {
+          "traitType": "Body",
+          "value": "Dark Brown",
+          "_id": "6346518843cbcb3f90d83bf9"
+        },
+        {
+          "traitType": "Dress",
+          "value": "Dark Blue shirt",
+          "_id": "6346518843cbcb3f90d83bfa"
+        },
+        {
+          "traitType": "Head",
+          "value": "Light Brown",
+          "_id": "6346518843cbcb3f90d83bfb"
+        },
+        {
+          "traitType": "Eey",
+          "value": "Sad",
+          "_id": "6346518843cbcb3f90d83bfc"
+        },
+        {
+          "traitType": "Hat",
+          "value": "Purple Hat",
+          "_id": "6346518843cbcb3f90d83bfd"
+        },
+        {
+          "traitType": "Mouth",
+          "value": "Angry",
+          "_id": "6346518843cbcb3f90d83bfe"
+        },
+        {
+          "traitType": "Nose",
+          "value": "Dark Red",
+          "_id": "6346518843cbcb3f90d83bff"
+        }
+      ],
+      "_id": "6346518843cbcb3f90d83bf7"
+    },
+    "collectionItem": "632c519d55163e21cf7372bd",
+    "network": {
+      "_id": "632c5121e1d4ae1a6dd73b41",
+      "name": "Goerli",
+      "displayName": "Ethereum (Goerli)",
+      "createdAt": "2022-09-22T12:12:17.426Z",
+      "updatedAt": "2022-09-22T12:12:17.426Z",
+      "chainId": "5",
+      "blockExplorerUrl": "https://goerli.etherscan.io",
+      "rpcUrl": "https://goerli.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
+      "tokenName": "ETH",
+      "tokenImage": "https://nft-thumbnail-test.s3.ap-south-1.amazonaws.com/tokens/ethereum.png",
+      "auctionContractAddress": "0xefD911978E1CF630b78a8eEe2cA6202c4aD2B3f3",
+      "marketplaceContractAddress": "0xDE65e4315DAEee068dD35Ff2Ec0B633eab2d15e9"
+    },
+    "thumbnailImage": "https://nft-thumbnail-test.s3.ap-south-1.amazonaws.com/lazy_lion/24.png",
+    "updatedAt": "2022-10-12T05:32:56.867Z",
+    "createdAt": "2022-10-12T05:32:56.867Z"
+  },
+  {
+    "_id": "6346518943cbcb3f90d83ca5",
+    "tokenId": 89,
+    "name": "Sruthi s",
+    "ownerAddress": "0xb419d78BC0EC428A9b5Dd0693E329f6B972A1f85",
+    "isOnSale": false,
+    "metadata": {
+      "name": "Sruthi s",
+      "image": "https://bafybeidr5rzz433s7tcn4pzcbjs427b7z2aa3xdi4cj46jdwj7xsf2vsxm.ipfs.nftstorage.link/89.png",
+      "description": "Hr",
+      "attributes": [
+        {
+          "traitType": "Background",
+          "value": "Gray Green",
+          "_id": "6346518943cbcb3f90d83ca7"
+        },
+        {
+          "traitType": "Body",
+          "value": "Dark Brown",
+          "_id": "6346518943cbcb3f90d83ca8"
+        },
+        {
+          "traitType": "Dress",
+          "value": "Grey",
+          "_id": "6346518943cbcb3f90d83ca9"
+        },
+        {
+          "traitType": "Head",
+          "value": "Dark Red",
+          "_id": "6346518943cbcb3f90d83caa"
+        },
+        {
+          "traitType": "Eey",
+          "value": "Angry",
+          "_id": "6346518943cbcb3f90d83cab"
+        },
+        {
+          "traitType": "Hat",
+          "value": "Dark Brown Hat",
+          "_id": "6346518943cbcb3f90d83cac"
+        },
+        {
+          "traitType": "Mouth",
+          "value": "Angry",
+          "_id": "6346518943cbcb3f90d83cad"
+        },
+        {
+          "traitType": "Nose",
+          "value": "Brown",
+          "_id": "6346518943cbcb3f90d83cae"
+        }
+      ],
+      "_id": "6346518943cbcb3f90d83ca6"
+    },
+    "collectionItem": "632c519d55163e21cf7372bd",
+    "network": {
+      "_id": "632c5121e1d4ae1a6dd73b41",
+      "name": "Goerli",
+      "displayName": "Ethereum (Goerli)",
+      "createdAt": "2022-09-22T12:12:17.426Z",
+      "updatedAt": "2022-09-22T12:12:17.426Z",
+      "chainId": "5",
+      "blockExplorerUrl": "https://goerli.etherscan.io",
+      "rpcUrl": "https://goerli.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
+      "tokenName": "ETH",
+      "tokenImage": "https://nft-thumbnail-test.s3.ap-south-1.amazonaws.com/tokens/ethereum.png",
+      "auctionContractAddress": "0xefD911978E1CF630b78a8eEe2cA6202c4aD2B3f3",
+      "marketplaceContractAddress": "0xDE65e4315DAEee068dD35Ff2Ec0B633eab2d15e9"
+    },
+    "thumbnailImage": "https://nft-thumbnail-test.s3.ap-south-1.amazonaws.com/lazy_lion/89.png",
+    "updatedAt": "2022-10-12T05:32:57.031Z",
+    "createdAt": "2022-10-12T05:32:57.031Z"
+  },
+  {
+    "_id": "6346518943cbcb3f90d83cc6",
+    "tokenId": 105,
+    "name": "Sarath",
+    "ownerAddress": "0xb419d78BC0EC428A9b5Dd0693E329f6B972A1f85",
+    "isOnSale": false,
+    "metadata": {
+      "name": "Sarath",
+      "image": "https://bafybeidr5rzz433s7tcn4pzcbjs427b7z2aa3xdi4cj46jdwj7xsf2vsxm.ipfs.nftstorage.link/105.png",
+      "description": "Hr Executive",
+      "attributes": [
+        {
+          "traitType": "Background",
+          "value": "Dark Blue",
+          "_id": "6346518943cbcb3f90d83cc8"
+        },
+        {
+          "traitType": "Body",
+          "value": "Dark Brown",
+          "_id": "6346518943cbcb3f90d83cc9"
+        },
+        {
+          "traitType": "Dress",
+          "value": "Dark Blue shirt",
+          "_id": "6346518943cbcb3f90d83cca"
+        },
+        {
+          "traitType": "Head",
+          "value": "Light Brown",
+          "_id": "6346518943cbcb3f90d83ccb"
+        },
+        {
+          "traitType": "Eey",
+          "value": "Surprised",
+          "_id": "6346518943cbcb3f90d83ccc"
+        },
+        {
+          "traitType": "Hat",
+          "value": "Purple Hat",
+          "_id": "6346518943cbcb3f90d83ccd"
+        },
+        {
+          "traitType": "Mouth",
+          "value": "Surprise",
+          "_id": "6346518943cbcb3f90d83cce"
+        },
+        {
+          "traitType": "Nose",
+          "value": "Brown",
+          "_id": "6346518943cbcb3f90d83ccf"
+        }
+      ],
+      "_id": "6346518943cbcb3f90d83cc7"
+    },
+    "collectionItem": "632c519d55163e21cf7372bd",
+    "network": {
+      "_id": "632c5121e1d4ae1a6dd73b41",
+      "name": "Goerli",
+      "displayName": "Ethereum (Goerli)",
+      "createdAt": "2022-09-22T12:12:17.426Z",
+      "updatedAt": "2022-09-22T12:12:17.426Z",
+      "chainId": "5",
+      "blockExplorerUrl": "https://goerli.etherscan.io",
+      "rpcUrl": "https://goerli.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
+      "tokenName": "ETH",
+      "tokenImage": "https://nft-thumbnail-test.s3.ap-south-1.amazonaws.com/tokens/ethereum.png",
+      "auctionContractAddress": "0xefD911978E1CF630b78a8eEe2cA6202c4aD2B3f3",
+      "marketplaceContractAddress": "0xDE65e4315DAEee068dD35Ff2Ec0B633eab2d15e9"
+    },
+    "thumbnailImage": "https://nft-thumbnail-test.s3.ap-south-1.amazonaws.com/lazy_lion/105.png",
+    "updatedAt": "2022-10-12T05:32:57.115Z",
+    "createdAt": "2022-10-12T05:32:57.115Z"
+  },
+  {
+    "_id": "6346518843cbcb3f90d83c24",
+    "tokenId": 66,
+    "name": "Arath Edison",
+    "ownerAddress": "0xbbe7cE97b08AD26E6dd5cfD9CB12035c8e0A9743",
+    "isOnSale": false,
+    "metadata": {
+      "name": "Arath Edison",
+      "image": "https://bafybeidr5rzz433s7tcn4pzcbjs427b7z2aa3xdi4cj46jdwj7xsf2vsxm.ipfs.nftstorage.link/66.png",
+      "description": "Manager",
+      "attributes": [
+        {
+          "traitType": "Background",
+          "value": "Gray Green",
+          "_id": "6346518843cbcb3f90d83c26"
+        },
+        {
+          "traitType": "Body",
+          "value": "Skin",
+          "_id": "6346518843cbcb3f90d83c27"
+        },
+        {
+          "traitType": "Dress",
+          "value": "Grey",
+          "_id": "6346518843cbcb3f90d83c28"
+        },
+        {
+          "traitType": "Head",
+          "value": "Black",
+          "_id": "6346518843cbcb3f90d83c29"
+        },
+        {
+          "traitType": "Eey",
+          "value": "Surprised",
+          "_id": "6346518843cbcb3f90d83c2a"
+        },
+        {
+          "traitType": "Hat",
+          "value": "Dark Brown Hat",
+          "_id": "6346518843cbcb3f90d83c2b"
+        },
+        {
+          "traitType": "Mouth",
+          "value": "Happy",
+          "_id": "6346518843cbcb3f90d83c2c"
+        },
+        {
+          "traitType": "Nose",
+          "value": "Brown",
+          "_id": "6346518843cbcb3f90d83c2d"
+        }
+      ],
+      "_id": "6346518843cbcb3f90d83c25"
+    },
+    "collectionItem": "632c519d55163e21cf7372bd",
+    "network": {
+      "_id": "632c5121e1d4ae1a6dd73b41",
+      "name": "Goerli",
+      "displayName": "Ethereum (Goerli)",
+      "createdAt": "2022-09-22T12:12:17.426Z",
+      "updatedAt": "2022-09-22T12:12:17.426Z",
+      "chainId": "5",
+      "blockExplorerUrl": "https://goerli.etherscan.io",
+      "rpcUrl": "https://goerli.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
+      "tokenName": "ETH",
+      "tokenImage": "https://nft-thumbnail-test.s3.ap-south-1.amazonaws.com/tokens/ethereum.png",
+      "auctionContractAddress": "0xefD911978E1CF630b78a8eEe2cA6202c4aD2B3f3",
+      "marketplaceContractAddress": "0xDE65e4315DAEee068dD35Ff2Ec0B633eab2d15e9"
+    },
+    "thumbnailImage": "https://nft-thumbnail-test.s3.ap-south-1.amazonaws.com/lazy_lion/66.png",
+    "updatedAt": "2022-10-17T10:24:18.419Z",
+    "createdAt": "2022-10-12T05:32:56.888Z"
+  },
+  {
+    "_id": "6346518943cbcb3f90d83cb0",
+    "tokenId": 96,
+    "name": "Vineeth J ",
+    "ownerAddress": "0xb419d78BC0EC428A9b5Dd0693E329f6B972A1f85",
+    "isOnSale": false,
+    "metadata": {
+      "name": "Lazy Lion #97",
+      "image": "https://bafybeidr5rzz433s7tcn4pzcbjs427b7z2aa3xdi4cj46jdwj7xsf2vsxm.ipfs.nftstorage.link/96.png",
+      "description": "Team Lead",
+      "attributes": [
+        {
+          "traitType": "Background",
+          "value": "Dark Blue",
+          "_id": "6346518943cbcb3f90d83cb2"
+        },
+        {
+          "traitType": "Body",
+          "value": "Skin",
+          "_id": "6346518943cbcb3f90d83cb3"
+        },
+        {
+          "traitType": "Dress",
+          "value": "Grey",
+          "_id": "6346518943cbcb3f90d83cb4"
+        },
+        {
+          "traitType": "Head",
+          "value": "Black",
+          "_id": "6346518943cbcb3f90d83cb5"
+        },
+        {
+          "traitType": "Eey",
+          "value": "Surprised",
+          "_id": "6346518943cbcb3f90d83cb6"
+        },
+        {
+          "traitType": "Hat",
+          "value": "Purple Hat",
+          "_id": "6346518943cbcb3f90d83cb7"
+        },
+        {
+          "traitType": "Mouth",
+          "value": "Happy",
+          "_id": "6346518943cbcb3f90d83cb8"
+        },
+        {
+          "traitType": "Nose",
+          "value": "Dark Red",
+          "_id": "6346518943cbcb3f90d83cb9"
+        }
+      ],
+      "_id": "6346518943cbcb3f90d83cb1"
+    },
+    "collectionItem": "632c519d55163e21cf7372bd",
+    "network": {
+      "_id": "632c5121e1d4ae1a6dd73b41",
+      "name": "Goerli",
+      "displayName": "Ethereum (Goerli)",
+      "createdAt": "2022-09-22T12:12:17.426Z",
+      "updatedAt": "2022-09-22T12:12:17.426Z",
+      "chainId": "5",
+      "blockExplorerUrl": "https://goerli.etherscan.io",
+      "rpcUrl": "https://goerli.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
+      "tokenName": "ETH",
+      "tokenImage": "https://nft-thumbnail-test.s3.ap-south-1.amazonaws.com/tokens/ethereum.png",
+      "auctionContractAddress": "0xefD911978E1CF630b78a8eEe2cA6202c4aD2B3f3",
+      "marketplaceContractAddress": "0xDE65e4315DAEee068dD35Ff2Ec0B633eab2d15e9"
+    },
+    "thumbnailImage": "https://nft-thumbnail-test.s3.ap-south-1.amazonaws.com/lazy_lion/96.png",
+    "updatedAt": "2022-10-12T05:32:57.052Z",
+    "createdAt": "2022-10-12T05:32:57.052Z"
+  },
+  {
+    "_id": "6346518843cbcb3f90d83b8a",
+    "tokenId": 13,
+    "name": "Midhun Das",
+    "ownerAddress": "0xb419d78BC0EC428A9b5Dd0693E329f6B972A1f85",
+    "isOnSale": false,
+    "metadata": {
+      "name": "Lazy Lion #14",
+      "image": "https://bafybeidr5rzz433s7tcn4pzcbjs427b7z2aa3xdi4cj46jdwj7xsf2vsxm.ipfs.nftstorage.link/13.png",
+      "description": "Admin",
+      "attributes": [
+        {
+          "traitType": "Background",
+          "value": "Dark Blue",
+          "_id": "6346518843cbcb3f90d83b8c"
+        },
+        {
+          "traitType": "Body",
+          "value": "Skin",
+          "_id": "6346518843cbcb3f90d83b8d"
+        },
+        {
+          "traitType": "Dress",
+          "value": "Grey",
+          "_id": "6346518843cbcb3f90d83b8e"
+        },
+        {
+          "traitType": "Head",
+          "value": "Dark Red",
+          "_id": "6346518843cbcb3f90d83b8f"
+        },
+        {
+          "traitType": "Eey",
+          "value": "Angry",
+          "_id": "6346518843cbcb3f90d83b90"
+        },
+        {
+          "traitType": "Hat",
+          "value": "Purple Hat",
+          "_id": "6346518843cbcb3f90d83b91"
+        },
+        {
+          "traitType": "Mouth",
+          "value": "Surprise",
+          "_id": "6346518843cbcb3f90d83b92"
+        },
+        {
+          "traitType": "Nose",
+          "value": "Brown",
+          "_id": "6346518843cbcb3f90d83b93"
+        }
+      ],
+      "_id": "6346518843cbcb3f90d83b8b"
+    },
+    "collectionItem": "632c519d55163e21cf7372bd",
+    "network": {
+      "_id": "632c5121e1d4ae1a6dd73b41",
+      "name": "Goerli",
+      "displayName": "Ethereum (Goerli)",
+      "createdAt": "2022-09-22T12:12:17.426Z",
+      "updatedAt": "2022-09-22T12:12:17.426Z",
+      "chainId": "5",
+      "blockExplorerUrl": "https://goerli.etherscan.io",
+      "rpcUrl": "https://goerli.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
+      "tokenName": "ETH",
+      "tokenImage": "https://nft-thumbnail-test.s3.ap-south-1.amazonaws.com/tokens/ethereum.png",
+      "auctionContractAddress": "0xefD911978E1CF630b78a8eEe2cA6202c4aD2B3f3",
+      "marketplaceContractAddress": "0xDE65e4315DAEee068dD35Ff2Ec0B633eab2d15e9"
+    },
+    "thumbnailImage": "https://nft-thumbnail-test.s3.ap-south-1.amazonaws.com/lazy_lion/13.png",
+    "updatedAt": "2022-10-12T05:32:56.758Z",
+    "createdAt": "2022-10-12T05:32:56.758Z"
+  },
+  {
+    "_id": "6346518843cbcb3f90d83c3e",
+    "tokenId": 52,
+    "name": "Vishnu M",
+    "ownerAddress": "0xb419d78BC0EC428A9b5Dd0693E329f6B972A1f85",
+    "isOnSale": false,
+    "metadata": {
+      "name": "Vishnu M",
+      "image": "https://bafybeidr5rzz433s7tcn4pzcbjs427b7z2aa3xdi4cj46jdwj7xsf2vsxm.ipfs.nftstorage.link/52.png",
+      "description": "Systems Admin",
+      "attributes": [
+        {
+          "traitType": "Background",
+          "value": "Dark Blue",
+          "_id": "6346518843cbcb3f90d83c40"
+        },
+        {
+          "traitType": "Body",
+          "value": "Dark Brown",
+          "_id": "6346518843cbcb3f90d83c41"
+        },
+        {
+          "traitType": "Dress",
+          "value": "Dark Blue shirt",
+          "_id": "6346518843cbcb3f90d83c42"
+        },
+        {
+          "traitType": "Head",
+          "value": "Black",
+          "_id": "6346518843cbcb3f90d83c43"
+        },
+        {
+          "traitType": "Eey",
+          "value": "Sad",
+          "_id": "6346518843cbcb3f90d83c44"
+        },
+        {
+          "traitType": "Hat",
+          "value": "Dark Brown Hat",
+          "_id": "6346518843cbcb3f90d83c45"
+        },
+        {
+          "traitType": "Mouth",
+          "value": "Surprise",
+          "_id": "6346518843cbcb3f90d83c46"
+        },
+        {
+          "traitType": "Nose",
+          "value": "Dark Red",
+          "_id": "6346518843cbcb3f90d83c47"
+        }
+      ],
+      "_id": "6346518843cbcb3f90d83c3f"
+    },
+    "collectionItem": "632c519d55163e21cf7372bd",
+    "network": {
+      "_id": "632c5121e1d4ae1a6dd73b41",
+      "name": "Goerli",
+      "displayName": "Ethereum (Goerli)",
+      "createdAt": "2022-09-22T12:12:17.426Z",
+      "updatedAt": "2022-09-22T12:12:17.426Z",
+      "chainId": "5",
+      "blockExplorerUrl": "https://goerli.etherscan.io",
+      "rpcUrl": "https://goerli.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
+      "tokenName": "ETH",
+      "tokenImage": "https://nft-thumbnail-test.s3.ap-south-1.amazonaws.com/tokens/ethereum.png",
+      "auctionContractAddress": "0xefD911978E1CF630b78a8eEe2cA6202c4aD2B3f3",
+      "marketplaceContractAddress": "0xDE65e4315DAEee068dD35Ff2Ec0B633eab2d15e9"
+    },
+    "thumbnailImage": "https://nft-thumbnail-test.s3.ap-south-1.amazonaws.com/lazy_lion/52.png",
+    "updatedAt": "2022-10-12T05:32:56.916Z",
+    "createdAt": "2022-10-12T05:32:56.916Z"
+  },
+  {
+    "_id": "6346518843cbcb3f90d83b4d",
+    "tokenId": 19,
+    "name": "Ananjana H",
+    "ownerAddress": "0xb419d78BC0EC428A9b5Dd0693E329f6B972A1f85",
+    "isOnSale": false,
+    "metadata": {
+      "name": "Ananjana H",
+      "image": "https://bafybeidr5rzz433s7tcn4pzcbjs427b7z2aa3xdi4cj46jdwj7xsf2vsxm.ipfs.nftstorage.link/19.png",
+      "description": "Accountant",
+      "attributes": [
+        {
+          "traitType": "Background",
+          "value": "Gray Green",
+          "_id": "6346518843cbcb3f90d83b4f"
+        },
+        {
+          "traitType": "Body",
+          "value": "Dark Brown",
+          "_id": "6346518843cbcb3f90d83b50"
+        },
+        {
+          "traitType": "Dress",
+          "value": "Dark Blue shirt",
+          "_id": "6346518843cbcb3f90d83b51"
+        },
+        {
+          "traitType": "Head",
+          "value": "Black",
+          "_id": "6346518843cbcb3f90d83b52"
+        },
+        {
+          "traitType": "Eey",
+          "value": "Angry",
+          "_id": "6346518843cbcb3f90d83b53"
+        },
+        {
+          "traitType": "Hat",
+          "value": "Dark Brown Hat",
+          "_id": "6346518843cbcb3f90d83b54"
+        },
+        {
+          "traitType": "Mouth",
+          "value": "Surprise",
+          "_id": "6346518843cbcb3f90d83b55"
+        },
+        {
+          "traitType": "Nose",
+          "value": "Dark Red",
+          "_id": "6346518843cbcb3f90d83b56"
+        }
+      ],
+      "_id": "6346518843cbcb3f90d83b4e"
+    },
+    "collectionItem": "632c519d55163e21cf7372bd",
+    "network": {
+      "_id": "632c5121e1d4ae1a6dd73b41",
+      "name": "Goerli",
+      "displayName": "Ethereum (Goerli)",
+      "createdAt": "2022-09-22T12:12:17.426Z",
+      "updatedAt": "2022-09-22T12:12:17.426Z",
+      "chainId": "5",
+      "blockExplorerUrl": "https://goerli.etherscan.io",
+      "rpcUrl": "https://goerli.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
+      "tokenName": "ETH",
+      "tokenImage": "https://nft-thumbnail-test.s3.ap-south-1.amazonaws.com/tokens/ethereum.png",
+      "auctionContractAddress": "0xefD911978E1CF630b78a8eEe2cA6202c4aD2B3f3",
+      "marketplaceContractAddress": "0xDE65e4315DAEee068dD35Ff2Ec0B633eab2d15e9"
+    },
+    "thumbnailImage": "https://nft-thumbnail-test.s3.ap-south-1.amazonaws.com/lazy_lion/19.png",
+    "updatedAt": "2022-10-12T05:32:56.696Z",
+    "createdAt": "2022-10-12T05:32:56.696Z"
+  },
+  {
+    "_id": "6346518843cbcb3f90d83baa",
+    "tokenId": 28,
+    "name": "Arjun B",
+    "ownerAddress": "0xb419d78BC0EC428A9b5Dd0693E329f6B972A1f85",
+    "isOnSale": false,
+    "metadata": {
+      "name": "Arjun B",
+      "image": "https://bafybeidr5rzz433s7tcn4pzcbjs427b7z2aa3xdi4cj46jdwj7xsf2vsxm.ipfs.nftstorage.link/28.png",
+      "description": "Marketing Manager",
+      "attributes": [
+        {
+          "traitType": "Background",
+          "value": "Gray Green",
+          "_id": "6346518843cbcb3f90d83bac"
+        },
+        {
+          "traitType": "Body",
+          "value": "Skin",
+          "_id": "6346518843cbcb3f90d83bad"
+        },
+        {
+          "traitType": "Dress",
+          "value": "Dark Blue shirt",
+          "_id": "6346518843cbcb3f90d83bae"
+        },
+        {
+          "traitType": "Head",
+          "value": "Black",
+          "_id": "6346518843cbcb3f90d83baf"
+        },
+        {
+          "traitType": "Eey",
+          "value": "Angry",
+          "_id": "6346518843cbcb3f90d83bb0"
+        },
+        {
+          "traitType": "Hat",
+          "value": "Dark Brown Hat",
+          "_id": "6346518843cbcb3f90d83bb1"
+        },
+        {
+          "traitType": "Mouth",
+          "value": "Happy",
+          "_id": "6346518843cbcb3f90d83bb2"
+        },
+        {
+          "traitType": "Nose",
+          "value": "Brown",
+          "_id": "6346518843cbcb3f90d83bb3"
+        }
+      ],
+      "_id": "6346518843cbcb3f90d83bab"
+    },
+    "collectionItem": "632c519d55163e21cf7372bd",
+    "network": {
+      "_id": "632c5121e1d4ae1a6dd73b41",
+      "name": "Goerli",
+      "displayName": "Ethereum (Goerli)",
+      "createdAt": "2022-09-22T12:12:17.426Z",
+      "updatedAt": "2022-09-22T12:12:17.426Z",
+      "chainId": "5",
+      "blockExplorerUrl": "https://goerli.etherscan.io",
+      "rpcUrl": "https://goerli.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
+      "tokenName": "ETH",
+      "tokenImage": "https://nft-thumbnail-test.s3.ap-south-1.amazonaws.com/tokens/ethereum.png",
+      "auctionContractAddress": "0xefD911978E1CF630b78a8eEe2cA6202c4aD2B3f3",
+      "marketplaceContractAddress": "0xDE65e4315DAEee068dD35Ff2Ec0B633eab2d15e9"
+    },
+    "thumbnailImage": "https://nft-thumbnail-test.s3.ap-south-1.amazonaws.com/lazy_lion/28.png",
+    "updatedAt": "2022-10-12T05:32:56.792Z",
+    "createdAt": "2022-10-12T05:32:56.792Z"
+  },
+  {
+    "_id": "6346518943cbcb3f90d83c9a",
+    "tokenId": 102,
+    "name": "Arun S G",
+    "ownerAddress": "0xb419d78BC0EC428A9b5Dd0693E329f6B972A1f85",
+    "isOnSale": false,
+    "metadata": {
+      "name": "Arun S G",
+      "image": "https://bafybeidr5rzz433s7tcn4pzcbjs427b7z2aa3xdi4cj46jdwj7xsf2vsxm.ipfs.nftstorage.link/102.png",
+      "description": "BDA",
+      "attributes": [
+        {
+          "traitType": "Background",
+          "value": "Dark Blue",
+          "_id": "6346518943cbcb3f90d83c9c"
+        },
+        {
+          "traitType": "Body",
+          "value": "Dark Brown",
+          "_id": "6346518943cbcb3f90d83c9d"
+        },
+        {
+          "traitType": "Dress",
+          "value": "Grey",
+          "_id": "6346518943cbcb3f90d83c9e"
+        },
+        {
+          "traitType": "Head",
+          "value": "Dark Red",
+          "_id": "6346518943cbcb3f90d83c9f"
+        },
+        {
+          "traitType": "Eey",
+          "value": "Sad",
+          "_id": "6346518943cbcb3f90d83ca0"
+        },
+        {
+          "traitType": "Hat",
+          "value": "Dark Brown Hat",
+          "_id": "6346518943cbcb3f90d83ca1"
+        },
+        {
+          "traitType": "Mouth",
+          "value": "Angry",
+          "_id": "6346518943cbcb3f90d83ca2"
+        },
+        {
+          "traitType": "Nose",
+          "value": "Dark Red",
+          "_id": "6346518943cbcb3f90d83ca3"
+        }
+      ],
+      "_id": "6346518943cbcb3f90d83c9b"
+    },
+    "collectionItem": "632c519d55163e21cf7372bd",
+    "network": {
+      "_id": "632c5121e1d4ae1a6dd73b41",
+      "name": "Goerli",
+      "displayName": "Ethereum (Goerli)",
+      "createdAt": "2022-09-22T12:12:17.426Z",
+      "updatedAt": "2022-09-22T12:12:17.426Z",
+      "chainId": "5",
+      "blockExplorerUrl": "https://goerli.etherscan.io",
+      "rpcUrl": "https://goerli.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
+      "tokenName": "ETH",
+      "tokenImage": "https://nft-thumbnail-test.s3.ap-south-1.amazonaws.com/tokens/ethereum.png",
+      "auctionContractAddress": "0xefD911978E1CF630b78a8eEe2cA6202c4aD2B3f3",
+      "marketplaceContractAddress": "0xDE65e4315DAEee068dD35Ff2Ec0B633eab2d15e9"
+    },
+    "thumbnailImage": "https://nft-thumbnail-test.s3.ap-south-1.amazonaws.com/lazy_lion/102.png",
+    "updatedAt": "2022-10-12T05:32:57.005Z",
+    "createdAt": "2022-10-12T05:32:57.005Z"
+  }
+]

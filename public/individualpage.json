@@ -1,0 +1,1785 @@
+[
+  {
+    "tokenId": 94,
+    "name": "Abhijith",
+    "ownerAddress": "0xb419d78BC0EC428A9b5Dd0693E329f6B972A1f85",
+    "isOnSale": false,
+    "metadata": {
+      "name": "Abhijith",
+      "image": "https://bafybeidr5rzz433s7tcn4pzcbjs427b7z2aa3xdi4cj46jdwj7xsf2vsxm.ipfs.nftstorage.link/94.png",
+      "description": "Developer",
+      "attributes": [
+        {
+          "traitType": "Background",
+          "value": "Gray Green",
+          "_id": "6346518843cbcb3f90d83c91"
+        },
+        {
+          "traitType": "Body",
+          "value": "Skin",
+          "_id": "6346518843cbcb3f90d83c92"
+        },
+        {
+          "traitType": "Dress",
+          "value": "Grey",
+          "_id": "6346518843cbcb3f90d83c93"
+        },
+        {
+          "traitType": "Head",
+          "value": "Light Brown",
+          "_id": "6346518843cbcb3f90d83c94"
+        },
+        {
+          "traitType": "Eey",
+          "value": "Surprised",
+          "_id": "6346518843cbcb3f90d83c95"
+        },
+        {
+          "traitType": "Hat",
+          "value": "Dark Brown Hat",
+          "_id": "6346518843cbcb3f90d83c96"
+        },
+        {
+          "traitType": "Mouth",
+          "value": "Angry",
+          "_id": "6346518843cbcb3f90d83c97"
+        },
+        {
+          "traitType": "Nose",
+          "value": "Brown",
+          "_id": "6346518843cbcb3f90d83c98"
+        }
+      ],
+      "_id": "6346518843cbcb3f90d83c90"
+    },
+    "thumbnailImage": "https://nft-thumbnail-test.s3.ap-south-1.amazonaws.com/lazy_lion/94.png",
+    "collectionItem": {
+      "collectionName": "Lazy Lion NFT",
+      "dailyhours": "7hr",
+      "weeklyhours": "35hr",
+      "monthlyhours": "140hr",
+
+      "collectionImage": "https://nft-thumbnail-test.s3.ap-south-1.amazonaws.com/lazy_lion/0.png",
+
+      "mintingStatus": "enabled",
+      "isWhitelistMint": true,
+      "metadataURI": "https://bafybeidzqannycv6o3ekz45gmsvwema2sfqe4rpmdti5qfvzn4v26lu2mu.ipfs.nftstorage.link/",
+      "thumbnailBaseURI": "https://nft-thumbnail-test.s3.ap-south-1.amazonaws.com/lazy_lion/",
+      "royalty": 10,
+      "traitTypes": [
+        {
+          "traitType": "Background",
+          "values": ["Blue", "Pink", "Green", "Bat", "Purple", "Red", "Orange"],
+          "id": "632c519d55163e21cf7372be"
+        },
+        {
+          "traitType": "Fur",
+          "values": [
+            "Purple",
+            "Green",
+            "Blue",
+            "Red",
+            "Yellow",
+            "Gray",
+            "Black",
+            "Orange"
+          ],
+          "id": "632c519d55163e21cf7372bf"
+        },
+        {
+          "traitType": "Eyes",
+          "values": ["Open", "Angry", "Happy", "Wink", "Chill", "Proud"],
+          "id": "632c519d55163e21cf7372c0"
+        },
+        {
+          "traitType": "Mouth",
+          "values": ["Happy", "Sad", "Smile", "Confused", "Thinking", "Mad"],
+          "id": "632c519d55163e21cf7372c1"
+        },
+        {
+          "traitType": "Clothes",
+          "values": [
+            "None",
+            "T-Shirt",
+            "Shirt",
+            "Suit",
+            "Vest",
+            "Coat",
+            "Shape 1"
+          ],
+          "id": "632c519d55163e21cf7372c2"
+        }
+      ],
+      "network": "632c5121e1d4ae1a6dd73b41",
+      "unit": "wei",
+      "contractAddress": "0x05EC513a7884Da8BE162a3B9E254Adabcbad2f8d",
+      "createdAt": "2022-02-16T09:16:28.000Z",
+      "mediaType": "image",
+      "thumbnailFormat": "png",
+      "tokenName": "ETH",
+      "id": "632c519d55163e21cf7372bd"
+    },
+    "marketplace": null,
+    "network": {
+      "name": "Goerli",
+      "displayName": "Ethereum (Goerli)",
+      "createdAt": "2022-09-22T12:12:17.426Z",
+      "chainId": "5",
+      "blockExplorerUrl": "https://goerli.etherscan.io",
+      "rpcUrl": "https://goerli.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
+      "tokenName": "ETH",
+      "tokenImage": "https://nft-thumbnail-test.s3.ap-south-1.amazonaws.com/tokens/ethereum.png",
+      "auctionContractAddress": "0xefD911978E1CF630b78a8eEe2cA6202c4aD2B3f3",
+      "marketplaceContractAddress": "0xDE65e4315DAEee068dD35Ff2Ec0B633eab2d15e9",
+      "id": "632c5121e1d4ae1a6dd73b41"
+    },
+    "createdAt": "2022-10-12T05:32:56.993Z",
+    "isOnAuction": false,
+    "id": "6346518843cbcb3f90d83c8f"
+  },
+  {
+    "tokenId": 85,
+    "name": "Midhun",
+    "ownerAddress": "0xb419d78BC0EC428A9b5Dd0693E329f6B972A1f85",
+    "isOnSale": false,
+    "metadata": {
+      "name": "Midhun",
+      "image": "https://bafybeidr5rzz433s7tcn4pzcbjs427b7z2aa3xdi4cj46jdwj7xsf2vsxm.ipfs.nftstorage.link/85.png",
+
+      "description": "PHP Developer",
+      "attributes": [
+        {
+          "traitType": "Background",
+          "value": "Gray Green",
+          "_id": "6346518843cbcb3f90d83c91"
+        },
+        {
+          "traitType": "Body",
+          "value": "Skin",
+          "_id": "6346518843cbcb3f90d83c92"
+        },
+        {
+          "traitType": "Dress",
+          "value": "Grey",
+          "_id": "6346518843cbcb3f90d83c93"
+        },
+        {
+          "traitType": "Head",
+          "value": "Light Brown",
+          "_id": "6346518843cbcb3f90d83c94"
+        },
+        {
+          "traitType": "Eey",
+          "value": "Surprised",
+          "_id": "6346518843cbcb3f90d83c95"
+        },
+        {
+          "traitType": "Hat",
+          "value": "Dark Brown Hat",
+          "_id": "6346518843cbcb3f90d83c96"
+        },
+        {
+          "traitType": "Mouth",
+          "value": "Angry",
+          "_id": "6346518843cbcb3f90d83c97"
+        },
+        {
+          "traitType": "Nose",
+          "value": "Brown",
+          "_id": "6346518843cbcb3f90d83c98"
+        }
+      ],
+      "_id": "6346518843cbcb3f90d83c90"
+    },
+    "thumbnailImage": "https://nft-thumbnail-test.s3.ap-south-1.amazonaws.com/lazy_lion/94.png",
+    "collectionItem": {
+      "collectionName": "Lazy Lion NFT",
+      "dailyhours": "8hr",
+      "weeklyhours": "38hr",
+      "monthlyhours": "130hr",
+      "collectionImage": "https://nft-thumbnail-test.s3.ap-south-1.amazonaws.com/lazy_lion/0.png",
+
+      "mintingStatus": "enabled",
+      "isWhitelistMint": true,
+      "metadataURI": "https://bafybeidzqannycv6o3ekz45gmsvwema2sfqe4rpmdti5qfvzn4v26lu2mu.ipfs.nftstorage.link/",
+      "thumbnailBaseURI": "https://nft-thumbnail-test.s3.ap-south-1.amazonaws.com/lazy_lion/",
+      "royalty": 10,
+      "traitTypes": [
+        {
+          "traitType": "Background",
+          "values": ["Blue", "Pink", "Green", "Bat", "Purple", "Red", "Orange"],
+          "id": "632c519d55163e21cf7372be"
+        },
+        {
+          "traitType": "Fur",
+          "values": [
+            "Purple",
+            "Green",
+            "Blue",
+            "Red",
+            "Yellow",
+            "Gray",
+            "Black",
+            "Orange"
+          ],
+          "id": "632c519d55163e21cf7372bf"
+        },
+        {
+          "traitType": "Eyes",
+          "values": ["Open", "Angry", "Happy", "Wink", "Chill", "Proud"],
+          "id": "632c519d55163e21cf7372c0"
+        },
+        {
+          "traitType": "Mouth",
+          "values": ["Happy", "Sad", "Smile", "Confused", "Thinking", "Mad"],
+          "id": "632c519d55163e21cf7372c1"
+        },
+        {
+          "traitType": "Clothes",
+          "values": [
+            "None",
+            "T-Shirt",
+            "Shirt",
+            "Suit",
+            "Vest",
+            "Coat",
+            "Shape 1"
+          ],
+          "id": "632c519d55163e21cf7372c2"
+        }
+      ],
+      "network": "632c5121e1d4ae1a6dd73b41",
+      "unit": "wei",
+      "contractAddress": "0x05EC513a7884Da8BE162a3B9E254Adabcbad2f8d",
+      "createdAt": "2022-02-16T09:16:28.000Z",
+      "mediaType": "image",
+      "thumbnailFormat": "png",
+      "tokenName": "ETH",
+      "id": "632c519d55163e21cf7372bd"
+    },
+    "marketplace": null,
+    "network": {
+      "name": "Goerli",
+      "displayName": "Ethereum (Goerli)",
+      "createdAt": "2022-09-22T12:12:17.426Z",
+      "chainId": "5",
+      "blockExplorerUrl": "https://goerli.etherscan.io",
+      "rpcUrl": "https://goerli.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
+      "tokenName": "ETH",
+      "tokenImage": "https://nft-thumbnail-test.s3.ap-south-1.amazonaws.com/tokens/ethereum.png",
+      "auctionContractAddress": "0xefD911978E1CF630b78a8eEe2cA6202c4aD2B3f3",
+      "marketplaceContractAddress": "0xDE65e4315DAEee068dD35Ff2Ec0B633eab2d15e9",
+      "id": "632c5121e1d4ae1a6dd73b41"
+    },
+    "createdAt": "2022-10-12T05:32:56.993Z",
+    "isOnAuction": false,
+    "id": "6346518943cbcb3f90d83cbb"
+  },
+  {
+    "tokenId": 24,
+    "name": "Rakesh",
+    "ownerAddress": "0xb419d78BC0EC428A9b5Dd0693E329f6B972A1f85",
+    "isOnSale": false,
+    "metadata": {
+      "name": "Rakesh",
+      "image": "https://bafybeidr5rzz433s7tcn4pzcbjs427b7z2aa3xdi4cj46jdwj7xsf2vsxm.ipfs.nftstorage.link/24.png",
+      "description": "DOT NET Developer",
+      "attributes": [
+        {
+          "traitType": "Background",
+          "value": "Gray Green",
+          "_id": "6346518843cbcb3f90d83c91"
+        },
+        {
+          "traitType": "Body",
+          "value": "Skin",
+          "_id": "6346518843cbcb3f90d83c92"
+        },
+        {
+          "traitType": "Dress",
+          "value": "Grey",
+          "_id": "6346518843cbcb3f90d83c93"
+        },
+        {
+          "traitType": "Head",
+          "value": "Light Brown",
+          "_id": "6346518843cbcb3f90d83c94"
+        },
+        {
+          "traitType": "Eey",
+          "value": "Surprised",
+          "_id": "6346518843cbcb3f90d83c95"
+        },
+        {
+          "traitType": "Hat",
+          "value": "Dark Brown Hat",
+          "_id": "6346518843cbcb3f90d83c96"
+        },
+        {
+          "traitType": "Mouth",
+          "value": "Angry",
+          "_id": "6346518843cbcb3f90d83c97"
+        },
+        {
+          "traitType": "Nose",
+          "value": "Brown",
+          "_id": "6346518843cbcb3f90d83c98"
+        }
+      ],
+      "_id": "6346518843cbcb3f90d83c90"
+    },
+    "thumbnailImage": "https://nft-thumbnail-test.s3.ap-south-1.amazonaws.com/lazy_lion/94.png",
+    "collectionItem": {
+      "collectionName": "Lazy Lion NFT",
+      "dailyhours": "8.5hr",
+      "weeklyhours": "40hr",
+      "monthlyhours": "150hr",
+      "collectionImage": "https://nft-thumbnail-test.s3.ap-south-1.amazonaws.com/lazy_lion/0.png",
+
+      "mintingStatus": "enabled",
+      "isWhitelistMint": true,
+      "metadataURI": "https://bafybeidzqannycv6o3ekz45gmsvwema2sfqe4rpmdti5qfvzn4v26lu2mu.ipfs.nftstorage.link/",
+      "thumbnailBaseURI": "https://nft-thumbnail-test.s3.ap-south-1.amazonaws.com/lazy_lion/",
+      "royalty": 10,
+      "traitTypes": [
+        {
+          "traitType": "Background",
+          "values": ["Blue", "Pink", "Green", "Bat", "Purple", "Red", "Orange"],
+          "id": "632c519d55163e21cf7372be"
+        },
+        {
+          "traitType": "Fur",
+          "values": [
+            "Purple",
+            "Green",
+            "Blue",
+            "Red",
+            "Yellow",
+            "Gray",
+            "Black",
+            "Orange"
+          ],
+          "id": "632c519d55163e21cf7372bf"
+        },
+        {
+          "traitType": "Eyes",
+          "values": ["Open", "Angry", "Happy", "Wink", "Chill", "Proud"],
+          "id": "632c519d55163e21cf7372c0"
+        },
+        {
+          "traitType": "Mouth",
+          "values": ["Happy", "Sad", "Smile", "Confused", "Thinking", "Mad"],
+          "id": "632c519d55163e21cf7372c1"
+        },
+        {
+          "traitType": "Clothes",
+          "values": [
+            "None",
+            "T-Shirt",
+            "Shirt",
+            "Suit",
+            "Vest",
+            "Coat",
+            "Shape 1"
+          ],
+          "id": "632c519d55163e21cf7372c2"
+        }
+      ],
+      "network": "632c5121e1d4ae1a6dd73b41",
+      "unit": "wei",
+      "contractAddress": "0x05EC513a7884Da8BE162a3B9E254Adabcbad2f8d",
+      "createdAt": "2022-02-16T09:16:28.000Z",
+      "mediaType": "image",
+      "thumbnailFormat": "png",
+      "tokenName": "ETH",
+      "id": "632c519d55163e21cf7372bd"
+    },
+    "marketplace": null,
+    "network": {
+      "name": "Goerli",
+      "displayName": "Ethereum (Goerli)",
+      "createdAt": "2022-09-22T12:12:17.426Z",
+      "chainId": "5",
+      "blockExplorerUrl": "https://goerli.etherscan.io",
+      "rpcUrl": "https://goerli.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
+      "tokenName": "ETH",
+      "tokenImage": "https://nft-thumbnail-test.s3.ap-south-1.amazonaws.com/tokens/ethereum.png",
+      "auctionContractAddress": "0xefD911978E1CF630b78a8eEe2cA6202c4aD2B3f3",
+      "marketplaceContractAddress": "0xDE65e4315DAEee068dD35Ff2Ec0B633eab2d15e9",
+      "id": "632c5121e1d4ae1a6dd73b41"
+    },
+    "createdAt": "2022-10-12T05:32:56.993Z",
+    "isOnAuction": false,
+    "id": "6346518843cbcb3f90d83bf6"
+  },
+  {
+    "tokenId": 89,
+    "name": "Sruthi s",
+    "ownerAddress": "0xb419d78BC0EC428A9b5Dd0693E329f6B972A1f85",
+    "isOnSale": false,
+    "metadata": {
+      "name": "Sruthi s",
+      "image": "https://bafybeidr5rzz433s7tcn4pzcbjs427b7z2aa3xdi4cj46jdwj7xsf2vsxm.ipfs.nftstorage.link/89.png",
+      "description": "Hr",
+      "attributes": [
+        {
+          "traitType": "Background",
+          "value": "Gray Green",
+          "_id": "6346518843cbcb3f90d83c91"
+        },
+        {
+          "traitType": "Body",
+          "value": "Skin",
+          "_id": "6346518843cbcb3f90d83c92"
+        },
+        {
+          "traitType": "Dress",
+          "value": "Grey",
+          "_id": "6346518843cbcb3f90d83c93"
+        },
+        {
+          "traitType": "Head",
+          "value": "Light Brown",
+          "_id": "6346518843cbcb3f90d83c94"
+        },
+        {
+          "traitType": "Eey",
+          "value": "Surprised",
+          "_id": "6346518843cbcb3f90d83c95"
+        },
+        {
+          "traitType": "Hat",
+          "value": "Dark Brown Hat",
+          "_id": "6346518843cbcb3f90d83c96"
+        },
+        {
+          "traitType": "Mouth",
+          "value": "Angry",
+          "_id": "6346518843cbcb3f90d83c97"
+        },
+        {
+          "traitType": "Nose",
+          "value": "Brown",
+          "_id": "6346518843cbcb3f90d83c98"
+        }
+      ],
+      "_id": "6346518843cbcb3f90d83c90"
+    },
+    "thumbnailImage": "https://nft-thumbnail-test.s3.ap-south-1.amazonaws.com/lazy_lion/94.png",
+    "collectionItem": {
+      "collectionName": "Lazy Lion NFT",
+      "dailyhours": "8hr",
+      "weeklyhours": "39hr",
+      "monthlyhours": "140hr",
+      "collectionImage": "https://nft-thumbnail-test.s3.ap-south-1.amazonaws.com/lazy_lion/0.png",
+
+      "mintingStatus": "enabled",
+      "isWhitelistMint": true,
+      "metadataURI": "https://bafybeidzqannycv6o3ekz45gmsvwema2sfqe4rpmdti5qfvzn4v26lu2mu.ipfs.nftstorage.link/",
+      "thumbnailBaseURI": "https://nft-thumbnail-test.s3.ap-south-1.amazonaws.com/lazy_lion/",
+      "royalty": 10,
+      "traitTypes": [
+        {
+          "traitType": "Background",
+          "values": ["Blue", "Pink", "Green", "Bat", "Purple", "Red", "Orange"],
+          "id": "632c519d55163e21cf7372be"
+        },
+        {
+          "traitType": "Fur",
+          "values": [
+            "Purple",
+            "Green",
+            "Blue",
+            "Red",
+            "Yellow",
+            "Gray",
+            "Black",
+            "Orange"
+          ],
+          "id": "632c519d55163e21cf7372bf"
+        },
+        {
+          "traitType": "Eyes",
+          "values": ["Open", "Angry", "Happy", "Wink", "Chill", "Proud"],
+          "id": "632c519d55163e21cf7372c0"
+        },
+        {
+          "traitType": "Mouth",
+          "values": ["Happy", "Sad", "Smile", "Confused", "Thinking", "Mad"],
+          "id": "632c519d55163e21cf7372c1"
+        },
+        {
+          "traitType": "Clothes",
+          "values": [
+            "None",
+            "T-Shirt",
+            "Shirt",
+            "Suit",
+            "Vest",
+            "Coat",
+            "Shape 1"
+          ],
+          "id": "632c519d55163e21cf7372c2"
+        }
+      ],
+      "network": "632c5121e1d4ae1a6dd73b41",
+      "unit": "wei",
+      "contractAddress": "0x05EC513a7884Da8BE162a3B9E254Adabcbad2f8d",
+      "createdAt": "2022-02-16T09:16:28.000Z",
+      "mediaType": "image",
+      "thumbnailFormat": "png",
+      "tokenName": "ETH",
+      "id": "632c519d55163e21cf7372bd"
+    },
+    "marketplace": null,
+    "network": {
+      "name": "Goerli",
+      "displayName": "Ethereum (Goerli)",
+      "createdAt": "2022-09-22T12:12:17.426Z",
+      "chainId": "5",
+      "blockExplorerUrl": "https://goerli.etherscan.io",
+      "rpcUrl": "https://goerli.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
+      "tokenName": "ETH",
+      "tokenImage": "https://nft-thumbnail-test.s3.ap-south-1.amazonaws.com/tokens/ethereum.png",
+      "auctionContractAddress": "0xefD911978E1CF630b78a8eEe2cA6202c4aD2B3f3",
+      "marketplaceContractAddress": "0xDE65e4315DAEee068dD35Ff2Ec0B633eab2d15e9",
+      "id": "632c5121e1d4ae1a6dd73b41"
+    },
+    "createdAt": "2022-10-12T05:32:56.993Z",
+    "isOnAuction": false,
+    "id": "6346518943cbcb3f90d83ca5"
+  },
+  {
+    "tokenId": 105,
+    "name": "Sarath",
+    "ownerAddress": "0xb419d78BC0EC428A9b5Dd0693E329f6B972A1f85",
+    "isOnSale": false,
+    "metadata": {
+      "name": "Sarath",
+      "image": "https://bafybeidr5rzz433s7tcn4pzcbjs427b7z2aa3xdi4cj46jdwj7xsf2vsxm.ipfs.nftstorage.link/105.png",
+      "description": "Hr Executive",
+      "attributes": [
+        {
+          "traitType": "Background",
+          "value": "Gray Green",
+          "_id": "6346518843cbcb3f90d83c91"
+        },
+        {
+          "traitType": "Body",
+          "value": "Skin",
+          "_id": "6346518843cbcb3f90d83c92"
+        },
+        {
+          "traitType": "Dress",
+          "value": "Grey",
+          "_id": "6346518843cbcb3f90d83c93"
+        },
+        {
+          "traitType": "Head",
+          "value": "Light Brown",
+          "_id": "6346518843cbcb3f90d83c94"
+        },
+        {
+          "traitType": "Eey",
+          "value": "Surprised",
+          "_id": "6346518843cbcb3f90d83c95"
+        },
+        {
+          "traitType": "Hat",
+          "value": "Dark Brown Hat",
+          "_id": "6346518843cbcb3f90d83c96"
+        },
+        {
+          "traitType": "Mouth",
+          "value": "Angry",
+          "_id": "6346518843cbcb3f90d83c97"
+        },
+        {
+          "traitType": "Nose",
+          "value": "Brown",
+          "_id": "6346518843cbcb3f90d83c98"
+        }
+      ],
+      "_id": "6346518843cbcb3f90d83c90"
+    },
+    "thumbnailImage": "https://nft-thumbnail-test.s3.ap-south-1.amazonaws.com/lazy_lion/94.png",
+    "collectionItem": {
+      "collectionName": "Lazy Lion NFT",
+      "dailyhours": "6hr",
+      "weeklyhours": "30hr",
+      "monthlyhours": "120hr",
+      "collectionImage": "https://nft-thumbnail-test.s3.ap-south-1.amazonaws.com/lazy_lion/0.png",
+
+      "mintingStatus": "enabled",
+      "isWhitelistMint": true,
+      "metadataURI": "https://bafybeidzqannycv6o3ekz45gmsvwema2sfqe4rpmdti5qfvzn4v26lu2mu.ipfs.nftstorage.link/",
+      "thumbnailBaseURI": "https://nft-thumbnail-test.s3.ap-south-1.amazonaws.com/lazy_lion/",
+      "royalty": 10,
+      "traitTypes": [
+        {
+          "traitType": "Background",
+          "values": ["Blue", "Pink", "Green", "Bat", "Purple", "Red", "Orange"],
+          "id": "632c519d55163e21cf7372be"
+        },
+        {
+          "traitType": "Fur",
+          "values": [
+            "Purple",
+            "Green",
+            "Blue",
+            "Red",
+            "Yellow",
+            "Gray",
+            "Black",
+            "Orange"
+          ],
+          "id": "632c519d55163e21cf7372bf"
+        },
+        {
+          "traitType": "Eyes",
+          "values": ["Open", "Angry", "Happy", "Wink", "Chill", "Proud"],
+          "id": "632c519d55163e21cf7372c0"
+        },
+        {
+          "traitType": "Mouth",
+          "values": ["Happy", "Sad", "Smile", "Confused", "Thinking", "Mad"],
+          "id": "632c519d55163e21cf7372c1"
+        },
+        {
+          "traitType": "Clothes",
+          "values": [
+            "None",
+            "T-Shirt",
+            "Shirt",
+            "Suit",
+            "Vest",
+            "Coat",
+            "Shape 1"
+          ],
+          "id": "632c519d55163e21cf7372c2"
+        }
+      ],
+      "network": "632c5121e1d4ae1a6dd73b41",
+      "unit": "wei",
+      "contractAddress": "0x05EC513a7884Da8BE162a3B9E254Adabcbad2f8d",
+      "createdAt": "2022-02-16T09:16:28.000Z",
+      "mediaType": "image",
+      "thumbnailFormat": "png",
+      "tokenName": "ETH",
+      "id": "632c519d55163e21cf7372bd"
+    },
+    "marketplace": null,
+    "network": {
+      "name": "Goerli",
+      "displayName": "Ethereum (Goerli)",
+      "createdAt": "2022-09-22T12:12:17.426Z",
+      "chainId": "5",
+      "blockExplorerUrl": "https://goerli.etherscan.io",
+      "rpcUrl": "https://goerli.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
+      "tokenName": "ETH",
+      "tokenImage": "https://nft-thumbnail-test.s3.ap-south-1.amazonaws.com/tokens/ethereum.png",
+      "auctionContractAddress": "0xefD911978E1CF630b78a8eEe2cA6202c4aD2B3f3",
+      "marketplaceContractAddress": "0xDE65e4315DAEee068dD35Ff2Ec0B633eab2d15e9",
+      "id": "632c5121e1d4ae1a6dd73b41"
+    },
+    "createdAt": "2022-10-12T05:32:56.993Z",
+    "isOnAuction": false,
+    "id": "6346518943cbcb3f90d83cc6"
+  },
+  {
+    "tokenId": 66,
+    "name": "Arath Edison",
+    "ownerAddress": "0xb419d78BC0EC428A9b5Dd0693E329f6B972A1f85",
+    "isOnSale": false,
+    "metadata": {
+      "name": "Arath Edison",
+      "image": "https://bafybeidr5rzz433s7tcn4pzcbjs427b7z2aa3xdi4cj46jdwj7xsf2vsxm.ipfs.nftstorage.link/66.png",
+      "description": "Manager",
+      "attributes": [
+        {
+          "traitType": "Background",
+          "value": "Gray Green",
+          "_id": "6346518843cbcb3f90d83c91"
+        },
+        {
+          "traitType": "Body",
+          "value": "Skin",
+          "_id": "6346518843cbcb3f90d83c92"
+        },
+        {
+          "traitType": "Dress",
+          "value": "Grey",
+          "_id": "6346518843cbcb3f90d83c93"
+        },
+        {
+          "traitType": "Head",
+          "value": "Light Brown",
+          "_id": "6346518843cbcb3f90d83c94"
+        },
+        {
+          "traitType": "Eey",
+          "value": "Surprised",
+          "_id": "6346518843cbcb3f90d83c95"
+        },
+        {
+          "traitType": "Hat",
+          "value": "Dark Brown Hat",
+          "_id": "6346518843cbcb3f90d83c96"
+        },
+        {
+          "traitType": "Mouth",
+          "value": "Angry",
+          "_id": "6346518843cbcb3f90d83c97"
+        },
+        {
+          "traitType": "Nose",
+          "value": "Brown",
+          "_id": "6346518843cbcb3f90d83c98"
+        }
+      ],
+      "_id": "6346518843cbcb3f90d83c90"
+    },
+    "thumbnailImage": "https://nft-thumbnail-test.s3.ap-south-1.amazonaws.com/lazy_lion/94.png",
+    "collectionItem": {
+      "collectionName": "Lazy Lion NFT",
+      "dailyhours": "7hr",
+      "weeklyhours": "20hr",
+      "monthlyhours": "100hr",
+      "collectionImage": "https://nft-thumbnail-test.s3.ap-south-1.amazonaws.com/lazy_lion/0.png",
+
+      "mintingStatus": "enabled",
+      "isWhitelistMint": true,
+      "metadataURI": "https://bafybeidzqannycv6o3ekz45gmsvwema2sfqe4rpmdti5qfvzn4v26lu2mu.ipfs.nftstorage.link/",
+      "thumbnailBaseURI": "https://nft-thumbnail-test.s3.ap-south-1.amazonaws.com/lazy_lion/",
+      "royalty": 10,
+      "traitTypes": [
+        {
+          "traitType": "Background",
+          "values": ["Blue", "Pink", "Green", "Bat", "Purple", "Red", "Orange"],
+          "id": "632c519d55163e21cf7372be"
+        },
+        {
+          "traitType": "Fur",
+          "values": [
+            "Purple",
+            "Green",
+            "Blue",
+            "Red",
+            "Yellow",
+            "Gray",
+            "Black",
+            "Orange"
+          ],
+          "id": "632c519d55163e21cf7372bf"
+        },
+        {
+          "traitType": "Eyes",
+          "values": ["Open", "Angry", "Happy", "Wink", "Chill", "Proud"],
+          "id": "632c519d55163e21cf7372c0"
+        },
+        {
+          "traitType": "Mouth",
+          "values": ["Happy", "Sad", "Smile", "Confused", "Thinking", "Mad"],
+          "id": "632c519d55163e21cf7372c1"
+        },
+        {
+          "traitType": "Clothes",
+          "values": [
+            "None",
+            "T-Shirt",
+            "Shirt",
+            "Suit",
+            "Vest",
+            "Coat",
+            "Shape 1"
+          ],
+          "id": "632c519d55163e21cf7372c2"
+        }
+      ],
+      "network": "632c5121e1d4ae1a6dd73b41",
+      "unit": "wei",
+      "contractAddress": "0x05EC513a7884Da8BE162a3B9E254Adabcbad2f8d",
+      "createdAt": "2022-02-16T09:16:28.000Z",
+      "mediaType": "image",
+      "thumbnailFormat": "png",
+      "tokenName": "ETH",
+      "id": "632c519d55163e21cf7372bd"
+    },
+    "marketplace": null,
+    "network": {
+      "name": "Goerli",
+      "displayName": "Ethereum (Goerli)",
+      "createdAt": "2022-09-22T12:12:17.426Z",
+      "chainId": "5",
+      "blockExplorerUrl": "https://goerli.etherscan.io",
+      "rpcUrl": "https://goerli.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
+      "tokenName": "ETH",
+      "tokenImage": "https://nft-thumbnail-test.s3.ap-south-1.amazonaws.com/tokens/ethereum.png",
+      "auctionContractAddress": "0xefD911978E1CF630b78a8eEe2cA6202c4aD2B3f3",
+      "marketplaceContractAddress": "0xDE65e4315DAEee068dD35Ff2Ec0B633eab2d15e9",
+      "id": "632c5121e1d4ae1a6dd73b41"
+    },
+    "createdAt": "2022-10-12T05:32:56.993Z",
+    "isOnAuction": false,
+    "id": "6346518843cbcb3f90d83c24"
+  },
+  {
+    "tokenId": 66,
+    "name": "Arath Edison",
+    "ownerAddress": "0xb419d78BC0EC428A9b5Dd0693E329f6B972A1f85",
+    "isOnSale": false,
+    "metadata": {
+      "name": "Arath Edison",
+      "image": "https://bafybeidr5rzz433s7tcn4pzcbjs427b7z2aa3xdi4cj46jdwj7xsf2vsxm.ipfs.nftstorage.link/96.png",
+      "description": "Manager",
+      "attributes": [
+        {
+          "traitType": "Background",
+          "value": "Gray Green",
+          "_id": "6346518843cbcb3f90d83c91"
+        },
+        {
+          "traitType": "Body",
+          "value": "Skin",
+          "_id": "6346518843cbcb3f90d83c92"
+        },
+        {
+          "traitType": "Dress",
+          "value": "Grey",
+          "_id": "6346518843cbcb3f90d83c93"
+        },
+        {
+          "traitType": "Head",
+          "value": "Light Brown",
+          "_id": "6346518843cbcb3f90d83c94"
+        },
+        {
+          "traitType": "Eey",
+          "value": "Surprised",
+          "_id": "6346518843cbcb3f90d83c95"
+        },
+        {
+          "traitType": "Hat",
+          "value": "Dark Brown Hat",
+          "_id": "6346518843cbcb3f90d83c96"
+        },
+        {
+          "traitType": "Mouth",
+          "value": "Angry",
+          "_id": "6346518843cbcb3f90d83c97"
+        },
+        {
+          "traitType": "Nose",
+          "value": "Brown",
+          "_id": "6346518843cbcb3f90d83c98"
+        }
+      ],
+      "_id": "6346518843cbcb3f90d83c90"
+    },
+    "thumbnailImage": "https://nft-thumbnail-test.s3.ap-south-1.amazonaws.com/lazy_lion/94.png",
+    "collectionItem": {
+      "collectionName": "Lazy Lion NFT",
+      "dailyhours": "7hr",
+      "weeklyhours": "20hr",
+      "monthlyhours": "100hr",
+      "collectionImage": "https://nft-thumbnail-test.s3.ap-south-1.amazonaws.com/lazy_lion/0.png",
+
+      "mintingStatus": "enabled",
+      "isWhitelistMint": true,
+      "metadataURI": "https://bafybeidzqannycv6o3ekz45gmsvwema2sfqe4rpmdti5qfvzn4v26lu2mu.ipfs.nftstorage.link/",
+      "thumbnailBaseURI": "https://nft-thumbnail-test.s3.ap-south-1.amazonaws.com/lazy_lion/",
+      "royalty": 10,
+      "traitTypes": [
+        {
+          "traitType": "Background",
+          "values": ["Blue", "Pink", "Green", "Bat", "Purple", "Red", "Orange"],
+          "id": "632c519d55163e21cf7372be"
+        },
+        {
+          "traitType": "Fur",
+          "values": [
+            "Purple",
+            "Green",
+            "Blue",
+            "Red",
+            "Yellow",
+            "Gray",
+            "Black",
+            "Orange"
+          ],
+          "id": "632c519d55163e21cf7372bf"
+        },
+        {
+          "traitType": "Eyes",
+          "values": ["Open", "Angry", "Happy", "Wink", "Chill", "Proud"],
+          "id": "632c519d55163e21cf7372c0"
+        },
+        {
+          "traitType": "Mouth",
+          "values": ["Happy", "Sad", "Smile", "Confused", "Thinking", "Mad"],
+          "id": "632c519d55163e21cf7372c1"
+        },
+        {
+          "traitType": "Clothes",
+          "values": [
+            "None",
+            "T-Shirt",
+            "Shirt",
+            "Suit",
+            "Vest",
+            "Coat",
+            "Shape 1"
+          ],
+          "id": "632c519d55163e21cf7372c2"
+        }
+      ],
+      "network": "632c5121e1d4ae1a6dd73b41",
+      "unit": "wei",
+      "contractAddress": "0x05EC513a7884Da8BE162a3B9E254Adabcbad2f8d",
+      "createdAt": "2022-02-16T09:16:28.000Z",
+      "mediaType": "image",
+      "thumbnailFormat": "png",
+      "tokenName": "ETH",
+      "id": "632c519d55163e21cf7372bd"
+    },
+    "marketplace": null,
+    "network": {
+      "name": "Goerli",
+      "displayName": "Ethereum (Goerli)",
+      "createdAt": "2022-09-22T12:12:17.426Z",
+      "chainId": "5",
+      "blockExplorerUrl": "https://goerli.etherscan.io",
+      "rpcUrl": "https://goerli.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
+      "tokenName": "ETH",
+      "tokenImage": "https://nft-thumbnail-test.s3.ap-south-1.amazonaws.com/tokens/ethereum.png",
+      "auctionContractAddress": "0xefD911978E1CF630b78a8eEe2cA6202c4aD2B3f3",
+      "marketplaceContractAddress": "0xDE65e4315DAEee068dD35Ff2Ec0B633eab2d15e9",
+      "id": "632c5121e1d4ae1a6dd73b41"
+    },
+    "createdAt": "2022-10-12T05:32:56.993Z",
+    "isOnAuction": false,
+    "id": "6346518843cbcb3f90d83c24"
+  },
+  {
+    "tokenId": 96,
+    "name": "Vineeth J ",
+    "ownerAddress": "0xb419d78BC0EC428A9b5Dd0693E329f6B972A1f85",
+    "isOnSale": false,
+    "metadata": {
+      "name": "Vineeth J ",
+      "image": "https://bafybeidr5rzz433s7tcn4pzcbjs427b7z2aa3xdi4cj46jdwj7xsf2vsxm.ipfs.nftstorage.link/96.png",
+      "description": "Manager",
+      "attributes": [
+        {
+          "traitType": "Background",
+          "value": "Gray Green",
+          "_id": "6346518843cbcb3f90d83c91"
+        },
+        {
+          "traitType": "Body",
+          "value": "Skin",
+          "_id": "6346518843cbcb3f90d83c92"
+        },
+        {
+          "traitType": "Dress",
+          "value": "Grey",
+          "_id": "6346518843cbcb3f90d83c93"
+        },
+        {
+          "traitType": "Head",
+          "value": "Light Brown",
+          "_id": "6346518843cbcb3f90d83c94"
+        },
+        {
+          "traitType": "Eey",
+          "value": "Surprised",
+          "_id": "6346518843cbcb3f90d83c95"
+        },
+        {
+          "traitType": "Hat",
+          "value": "Dark Brown Hat",
+          "_id": "6346518843cbcb3f90d83c96"
+        },
+        {
+          "traitType": "Mouth",
+          "value": "Angry",
+          "_id": "6346518843cbcb3f90d83c97"
+        },
+        {
+          "traitType": "Nose",
+          "value": "Brown",
+          "_id": "6346518843cbcb3f90d83c98"
+        }
+      ],
+      "_id": "6346518843cbcb3f90d83c90"
+    },
+    "thumbnailImage": "https://nft-thumbnail-test.s3.ap-south-1.amazonaws.com/lazy_lion/94.png",
+    "collectionItem": {
+      "collectionName": "Lazy Lion NFT",
+      "dailyhours": "5hr",
+      "weeklyhours": "10hr",
+      "monthlyhours": "105hr",
+      "collectionImage": "https://nft-thumbnail-test.s3.ap-south-1.amazonaws.com/lazy_lion/0.png",
+
+      "mintingStatus": "enabled",
+      "isWhitelistMint": true,
+      "metadataURI": "https://bafybeidzqannycv6o3ekz45gmsvwema2sfqe4rpmdti5qfvzn4v26lu2mu.ipfs.nftstorage.link/",
+      "thumbnailBaseURI": "https://nft-thumbnail-test.s3.ap-south-1.amazonaws.com/lazy_lion/",
+      "royalty": 10,
+      "traitTypes": [
+        {
+          "traitType": "Background",
+          "values": ["Blue", "Pink", "Green", "Bat", "Purple", "Red", "Orange"],
+          "id": "632c519d55163e21cf7372be"
+        },
+        {
+          "traitType": "Fur",
+          "values": [
+            "Purple",
+            "Green",
+            "Blue",
+            "Red",
+            "Yellow",
+            "Gray",
+            "Black",
+            "Orange"
+          ],
+          "id": "632c519d55163e21cf7372bf"
+        },
+        {
+          "traitType": "Eyes",
+          "values": ["Open", "Angry", "Happy", "Wink", "Chill", "Proud"],
+          "id": "632c519d55163e21cf7372c0"
+        },
+        {
+          "traitType": "Mouth",
+          "values": ["Happy", "Sad", "Smile", "Confused", "Thinking", "Mad"],
+          "id": "632c519d55163e21cf7372c1"
+        },
+        {
+          "traitType": "Clothes",
+          "values": [
+            "None",
+            "T-Shirt",
+            "Shirt",
+            "Suit",
+            "Vest",
+            "Coat",
+            "Shape 1"
+          ],
+          "id": "632c519d55163e21cf7372c2"
+        }
+      ],
+      "network": "632c5121e1d4ae1a6dd73b41",
+      "unit": "wei",
+      "contractAddress": "0x05EC513a7884Da8BE162a3B9E254Adabcbad2f8d",
+      "createdAt": "2022-02-16T09:16:28.000Z",
+      "mediaType": "image",
+      "thumbnailFormat": "png",
+      "tokenName": "ETH",
+      "id": "632c519d55163e21cf7372bd"
+    },
+    "marketplace": null,
+    "network": {
+      "name": "Goerli",
+      "displayName": "Ethereum (Goerli)",
+      "createdAt": "2022-09-22T12:12:17.426Z",
+      "chainId": "5",
+      "blockExplorerUrl": "https://goerli.etherscan.io",
+      "rpcUrl": "https://goerli.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
+      "tokenName": "ETH",
+      "tokenImage": "https://nft-thumbnail-test.s3.ap-south-1.amazonaws.com/tokens/ethereum.png",
+      "auctionContractAddress": "0xefD911978E1CF630b78a8eEe2cA6202c4aD2B3f3",
+      "marketplaceContractAddress": "0xDE65e4315DAEee068dD35Ff2Ec0B633eab2d15e9",
+      "id": "632c5121e1d4ae1a6dd73b41"
+    },
+    "createdAt": "2022-10-12T05:32:56.993Z",
+    "isOnAuction": false,
+    "id": "6346518943cbcb3f90d83cb0"
+  },
+  {
+    "tokenId": 13,
+    "name": "Midhun Das ",
+    "ownerAddress": "0xb419d78BC0EC428A9b5Dd0693E329f6B972A1f85",
+    "isOnSale": false,
+    "metadata": {
+      "name": "Midhun Das",
+      "image": "https://bafybeidr5rzz433s7tcn4pzcbjs427b7z2aa3xdi4cj46jdwj7xsf2vsxm.ipfs.nftstorage.link/13.png",
+      "description": "Manager",
+      "attributes": [
+        {
+          "traitType": "Background",
+          "value": "Gray Green",
+          "_id": "6346518843cbcb3f90d83c91"
+        },
+        {
+          "traitType": "Body",
+          "value": "Skin",
+          "_id": "6346518843cbcb3f90d83c92"
+        },
+        {
+          "traitType": "Dress",
+          "value": "Grey",
+          "_id": "6346518843cbcb3f90d83c93"
+        },
+        {
+          "traitType": "Head",
+          "value": "Light Brown",
+          "_id": "6346518843cbcb3f90d83c94"
+        },
+        {
+          "traitType": "Eey",
+          "value": "Surprised",
+          "_id": "6346518843cbcb3f90d83c95"
+        },
+        {
+          "traitType": "Hat",
+          "value": "Dark Brown Hat",
+          "_id": "6346518843cbcb3f90d83c96"
+        },
+        {
+          "traitType": "Mouth",
+          "value": "Angry",
+          "_id": "6346518843cbcb3f90d83c97"
+        },
+        {
+          "traitType": "Nose",
+          "value": "Brown",
+          "_id": "6346518843cbcb3f90d83c98"
+        }
+      ],
+      "_id": "6346518843cbcb3f90d83c90"
+    },
+    "thumbnailImage": "https://nft-thumbnail-test.s3.ap-south-1.amazonaws.com/lazy_lion/94.png",
+    "collectionItem": {
+      "collectionName": "Lazy Lion NFT",
+      "dailyhours": "10hr",
+      "weeklyhours": "18hr",
+      "monthlyhours": "150hr",
+      "collectionImage": "https://nft-thumbnail-test.s3.ap-south-1.amazonaws.com/lazy_lion/0.png",
+
+      "mintingStatus": "enabled",
+      "isWhitelistMint": true,
+      "metadataURI": "https://bafybeidzqannycv6o3ekz45gmsvwema2sfqe4rpmdti5qfvzn4v26lu2mu.ipfs.nftstorage.link/",
+      "thumbnailBaseURI": "https://nft-thumbnail-test.s3.ap-south-1.amazonaws.com/lazy_lion/",
+      "royalty": 10,
+      "traitTypes": [
+        {
+          "traitType": "Background",
+          "values": ["Blue", "Pink", "Green", "Bat", "Purple", "Red", "Orange"],
+          "id": "632c519d55163e21cf7372be"
+        },
+        {
+          "traitType": "Fur",
+          "values": [
+            "Purple",
+            "Green",
+            "Blue",
+            "Red",
+            "Yellow",
+            "Gray",
+            "Black",
+            "Orange"
+          ],
+          "id": "632c519d55163e21cf7372bf"
+        },
+        {
+          "traitType": "Eyes",
+          "values": ["Open", "Angry", "Happy", "Wink", "Chill", "Proud"],
+          "id": "632c519d55163e21cf7372c0"
+        },
+        {
+          "traitType": "Mouth",
+          "values": ["Happy", "Sad", "Smile", "Confused", "Thinking", "Mad"],
+          "id": "632c519d55163e21cf7372c1"
+        },
+        {
+          "traitType": "Clothes",
+          "values": [
+            "None",
+            "T-Shirt",
+            "Shirt",
+            "Suit",
+            "Vest",
+            "Coat",
+            "Shape 1"
+          ],
+          "id": "632c519d55163e21cf7372c2"
+        }
+      ],
+      "network": "632c5121e1d4ae1a6dd73b41",
+      "unit": "wei",
+      "contractAddress": "0x05EC513a7884Da8BE162a3B9E254Adabcbad2f8d",
+      "createdAt": "2022-02-16T09:16:28.000Z",
+      "mediaType": "image",
+      "thumbnailFormat": "png",
+      "tokenName": "ETH",
+      "id": "632c519d55163e21cf7372bd"
+    },
+    "marketplace": null,
+    "network": {
+      "name": "Goerli",
+      "displayName": "Ethereum (Goerli)",
+      "createdAt": "2022-09-22T12:12:17.426Z",
+      "chainId": "5",
+      "blockExplorerUrl": "https://goerli.etherscan.io",
+      "rpcUrl": "https://goerli.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
+      "tokenName": "ETH",
+      "tokenImage": "https://nft-thumbnail-test.s3.ap-south-1.amazonaws.com/tokens/ethereum.png",
+      "auctionContractAddress": "0xefD911978E1CF630b78a8eEe2cA6202c4aD2B3f3",
+      "marketplaceContractAddress": "0xDE65e4315DAEee068dD35Ff2Ec0B633eab2d15e9",
+      "id": "632c5121e1d4ae1a6dd73b41"
+    },
+    "createdAt": "2022-10-12T05:32:56.993Z",
+    "isOnAuction": false,
+    "id": "6346518843cbcb3f90d83b8a"
+  },
+  {
+    "tokenId": 52,
+    "name": "Vishnu M ",
+    "ownerAddress": "0xb419d78BC0EC428A9b5Dd0693E329f6B972A1f85",
+    "isOnSale": false,
+    "metadata": {
+      "name": "Vishnu M",
+      "image": "https://bafybeidr5rzz433s7tcn4pzcbjs427b7z2aa3xdi4cj46jdwj7xsf2vsxm.ipfs.nftstorage.link/52.png",
+      "description": "Manager",
+      "attributes": [
+        {
+          "traitType": "Background",
+          "value": "Gray Green",
+          "_id": "6346518843cbcb3f90d83c91"
+        },
+        {
+          "traitType": "Body",
+          "value": "Skin",
+          "_id": "6346518843cbcb3f90d83c92"
+        },
+        {
+          "traitType": "Dress",
+          "value": "Grey",
+          "_id": "6346518843cbcb3f90d83c93"
+        },
+        {
+          "traitType": "Head",
+          "value": "Light Brown",
+          "_id": "6346518843cbcb3f90d83c94"
+        },
+        {
+          "traitType": "Eey",
+          "value": "Surprised",
+          "_id": "6346518843cbcb3f90d83c95"
+        },
+        {
+          "traitType": "Hat",
+          "value": "Dark Brown Hat",
+          "_id": "6346518843cbcb3f90d83c96"
+        },
+        {
+          "traitType": "Mouth",
+          "value": "Angry",
+          "_id": "6346518843cbcb3f90d83c97"
+        },
+        {
+          "traitType": "Nose",
+          "value": "Brown",
+          "_id": "6346518843cbcb3f90d83c98"
+        }
+      ],
+      "_id": "6346518843cbcb3f90d83c90"
+    },
+    "thumbnailImage": "https://nft-thumbnail-test.s3.ap-south-1.amazonaws.com/lazy_lion/94.png",
+    "collectionItem": {
+      "collectionName": "Lazy Lion NFT",
+      "dailyhours": "10hr",
+      "weeklyhours": "18hr",
+      "monthlyhours": "150hr",
+      "collectionImage": "https://nft-thumbnail-test.s3.ap-south-1.amazonaws.com/lazy_lion/0.png",
+
+      "mintingStatus": "enabled",
+      "isWhitelistMint": true,
+      "metadataURI": "https://bafybeidzqannycv6o3ekz45gmsvwema2sfqe4rpmdti5qfvzn4v26lu2mu.ipfs.nftstorage.link/",
+      "thumbnailBaseURI": "https://nft-thumbnail-test.s3.ap-south-1.amazonaws.com/lazy_lion/",
+      "royalty": 10,
+      "traitTypes": [
+        {
+          "traitType": "Background",
+          "values": ["Blue", "Pink", "Green", "Bat", "Purple", "Red", "Orange"],
+          "id": "632c519d55163e21cf7372be"
+        },
+        {
+          "traitType": "Fur",
+          "values": [
+            "Purple",
+            "Green",
+            "Blue",
+            "Red",
+            "Yellow",
+            "Gray",
+            "Black",
+            "Orange"
+          ],
+          "id": "632c519d55163e21cf7372bf"
+        },
+        {
+          "traitType": "Eyes",
+          "values": ["Open", "Angry", "Happy", "Wink", "Chill", "Proud"],
+          "id": "632c519d55163e21cf7372c0"
+        },
+        {
+          "traitType": "Mouth",
+          "values": ["Happy", "Sad", "Smile", "Confused", "Thinking", "Mad"],
+          "id": "632c519d55163e21cf7372c1"
+        },
+        {
+          "traitType": "Clothes",
+          "values": [
+            "None",
+            "T-Shirt",
+            "Shirt",
+            "Suit",
+            "Vest",
+            "Coat",
+            "Shape 1"
+          ],
+          "id": "632c519d55163e21cf7372c2"
+        }
+      ],
+      "network": "632c5121e1d4ae1a6dd73b41",
+      "unit": "wei",
+      "contractAddress": "0x05EC513a7884Da8BE162a3B9E254Adabcbad2f8d",
+      "createdAt": "2022-02-16T09:16:28.000Z",
+      "mediaType": "image",
+      "thumbnailFormat": "png",
+      "tokenName": "ETH",
+      "id": "632c519d55163e21cf7372bd"
+    },
+    "marketplace": null,
+    "network": {
+      "name": "Goerli",
+      "displayName": "Ethereum (Goerli)",
+      "createdAt": "2022-09-22T12:12:17.426Z",
+      "chainId": "5",
+      "blockExplorerUrl": "https://goerli.etherscan.io",
+      "rpcUrl": "https://goerli.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
+      "tokenName": "ETH",
+      "tokenImage": "https://nft-thumbnail-test.s3.ap-south-1.amazonaws.com/tokens/ethereum.png",
+      "auctionContractAddress": "0xefD911978E1CF630b78a8eEe2cA6202c4aD2B3f3",
+      "marketplaceContractAddress": "0xDE65e4315DAEee068dD35Ff2Ec0B633eab2d15e9",
+      "id": "632c5121e1d4ae1a6dd73b41"
+    },
+    "createdAt": "2022-10-12T05:32:56.993Z",
+    "isOnAuction": false,
+    "id": "6346518843cbcb3f90d83c3e"
+  },
+  {
+    "tokenId": 19,
+    "name": "Ananjana H ",
+    "ownerAddress": "0xb419d78BC0EC428A9b5Dd0693E329f6B972A1f85",
+    "isOnSale": false,
+    "metadata": {
+      "name": "Ananjana H",
+      "image": "https://bafybeidr5rzz433s7tcn4pzcbjs427b7z2aa3xdi4cj46jdwj7xsf2vsxm.ipfs.nftstorage.link/19.png",
+      "description": "Manager",
+      "attributes": [
+        {
+          "traitType": "Background",
+          "value": "Gray Green",
+          "_id": "6346518843cbcb3f90d83c91"
+        },
+        {
+          "traitType": "Body",
+          "value": "Skin",
+          "_id": "6346518843cbcb3f90d83c92"
+        },
+        {
+          "traitType": "Dress",
+          "value": "Grey",
+          "_id": "6346518843cbcb3f90d83c93"
+        },
+        {
+          "traitType": "Head",
+          "value": "Light Brown",
+          "_id": "6346518843cbcb3f90d83c94"
+        },
+        {
+          "traitType": "Eey",
+          "value": "Surprised",
+          "_id": "6346518843cbcb3f90d83c95"
+        },
+        {
+          "traitType": "Hat",
+          "value": "Dark Brown Hat",
+          "_id": "6346518843cbcb3f90d83c96"
+        },
+        {
+          "traitType": "Mouth",
+          "value": "Angry",
+          "_id": "6346518843cbcb3f90d83c97"
+        },
+        {
+          "traitType": "Nose",
+          "value": "Brown",
+          "_id": "6346518843cbcb3f90d83c98"
+        }
+      ],
+      "_id": "6346518843cbcb3f90d83c90"
+    },
+    "thumbnailImage": "https://nft-thumbnail-test.s3.ap-south-1.amazonaws.com/lazy_lion/94.png",
+    "collectionItem": {
+      "collectionName": "Lazy Lion NFT",
+      "dailyhours": "10hr",
+      "weeklyhours": "18hr",
+      "monthlyhours": "150hr",
+      "collectionImage": "https://nft-thumbnail-test.s3.ap-south-1.amazonaws.com/lazy_lion/0.png",
+
+      "mintingStatus": "enabled",
+      "isWhitelistMint": true,
+      "metadataURI": "https://bafybeidzqannycv6o3ekz45gmsvwema2sfqe4rpmdti5qfvzn4v26lu2mu.ipfs.nftstorage.link/",
+      "thumbnailBaseURI": "https://nft-thumbnail-test.s3.ap-south-1.amazonaws.com/lazy_lion/",
+      "royalty": 10,
+      "traitTypes": [
+        {
+          "traitType": "Background",
+          "values": ["Blue", "Pink", "Green", "Bat", "Purple", "Red", "Orange"],
+          "id": "632c519d55163e21cf7372be"
+        },
+        {
+          "traitType": "Fur",
+          "values": [
+            "Purple",
+            "Green",
+            "Blue",
+            "Red",
+            "Yellow",
+            "Gray",
+            "Black",
+            "Orange"
+          ],
+          "id": "632c519d55163e21cf7372bf"
+        },
+        {
+          "traitType": "Eyes",
+          "values": ["Open", "Angry", "Happy", "Wink", "Chill", "Proud"],
+          "id": "632c519d55163e21cf7372c0"
+        },
+        {
+          "traitType": "Mouth",
+          "values": ["Happy", "Sad", "Smile", "Confused", "Thinking", "Mad"],
+          "id": "632c519d55163e21cf7372c1"
+        },
+        {
+          "traitType": "Clothes",
+          "values": [
+            "None",
+            "T-Shirt",
+            "Shirt",
+            "Suit",
+            "Vest",
+            "Coat",
+            "Shape 1"
+          ],
+          "id": "632c519d55163e21cf7372c2"
+        }
+      ],
+      "network": "632c5121e1d4ae1a6dd73b41",
+      "unit": "wei",
+      "contractAddress": "0x05EC513a7884Da8BE162a3B9E254Adabcbad2f8d",
+      "createdAt": "2022-02-16T09:16:28.000Z",
+      "mediaType": "image",
+      "thumbnailFormat": "png",
+      "tokenName": "ETH",
+      "id": "632c519d55163e21cf7372bd"
+    },
+    "marketplace": null,
+    "network": {
+      "name": "Goerli",
+      "displayName": "Ethereum (Goerli)",
+      "createdAt": "2022-09-22T12:12:17.426Z",
+      "chainId": "5",
+      "blockExplorerUrl": "https://goerli.etherscan.io",
+      "rpcUrl": "https://goerli.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
+      "tokenName": "ETH",
+      "tokenImage": "https://nft-thumbnail-test.s3.ap-south-1.amazonaws.com/tokens/ethereum.png",
+      "auctionContractAddress": "0xefD911978E1CF630b78a8eEe2cA6202c4aD2B3f3",
+      "marketplaceContractAddress": "0xDE65e4315DAEee068dD35Ff2Ec0B633eab2d15e9",
+      "id": "632c5121e1d4ae1a6dd73b41"
+    },
+    "createdAt": "2022-10-12T05:32:56.993Z",
+    "isOnAuction": false,
+    "id": "6346518843cbcb3f90d83b4d"
+  },
+  {
+    "tokenId": 28,
+    "name": "Arjun B ",
+    "ownerAddress": "0xb419d78BC0EC428A9b5Dd0693E329f6B972A1f85",
+    "isOnSale": false,
+    "metadata": {
+      "name": "Arjun B",
+      "image": "https://bafybeidr5rzz433s7tcn4pzcbjs427b7z2aa3xdi4cj46jdwj7xsf2vsxm.ipfs.nftstorage.link/28.png",
+      "description": "Manager",
+      "attributes": [
+        {
+          "traitType": "Background",
+          "value": "Gray Green",
+          "_id": "6346518843cbcb3f90d83c91"
+        },
+        {
+          "traitType": "Body",
+          "value": "Skin",
+          "_id": "6346518843cbcb3f90d83c92"
+        },
+        {
+          "traitType": "Dress",
+          "value": "Grey",
+          "_id": "6346518843cbcb3f90d83c93"
+        },
+        {
+          "traitType": "Head",
+          "value": "Light Brown",
+          "_id": "6346518843cbcb3f90d83c94"
+        },
+        {
+          "traitType": "Eey",
+          "value": "Surprised",
+          "_id": "6346518843cbcb3f90d83c95"
+        },
+        {
+          "traitType": "Hat",
+          "value": "Dark Brown Hat",
+          "_id": "6346518843cbcb3f90d83c96"
+        },
+        {
+          "traitType": "Mouth",
+          "value": "Angry",
+          "_id": "6346518843cbcb3f90d83c97"
+        },
+        {
+          "traitType": "Nose",
+          "value": "Brown",
+          "_id": "6346518843cbcb3f90d83c98"
+        }
+      ],
+      "_id": "6346518843cbcb3f90d83c90"
+    },
+    "thumbnailImage": "https://nft-thumbnail-test.s3.ap-south-1.amazonaws.com/lazy_lion/94.png",
+    "collectionItem": {
+      "collectionName": "Lazy Lion NFT",
+      "dailyhours": "10hr",
+      "weeklyhours": "18hr",
+      "monthlyhours": "150hr",
+      "collectionImage": "https://nft-thumbnail-test.s3.ap-south-1.amazonaws.com/lazy_lion/0.png",
+
+      "mintingStatus": "enabled",
+      "isWhitelistMint": true,
+      "metadataURI": "https://bafybeidzqannycv6o3ekz45gmsvwema2sfqe4rpmdti5qfvzn4v26lu2mu.ipfs.nftstorage.link/",
+      "thumbnailBaseURI": "https://nft-thumbnail-test.s3.ap-south-1.amazonaws.com/lazy_lion/",
+      "royalty": 10,
+      "traitTypes": [
+        {
+          "traitType": "Background",
+          "values": ["Blue", "Pink", "Green", "Bat", "Purple", "Red", "Orange"],
+          "id": "632c519d55163e21cf7372be"
+        },
+        {
+          "traitType": "Fur",
+          "values": [
+            "Purple",
+            "Green",
+            "Blue",
+            "Red",
+            "Yellow",
+            "Gray",
+            "Black",
+            "Orange"
+          ],
+          "id": "632c519d55163e21cf7372bf"
+        },
+        {
+          "traitType": "Eyes",
+          "values": ["Open", "Angry", "Happy", "Wink", "Chill", "Proud"],
+          "id": "632c519d55163e21cf7372c0"
+        },
+        {
+          "traitType": "Mouth",
+          "values": ["Happy", "Sad", "Smile", "Confused", "Thinking", "Mad"],
+          "id": "632c519d55163e21cf7372c1"
+        },
+        {
+          "traitType": "Clothes",
+          "values": [
+            "None",
+            "T-Shirt",
+            "Shirt",
+            "Suit",
+            "Vest",
+            "Coat",
+            "Shape 1"
+          ],
+          "id": "632c519d55163e21cf7372c2"
+        }
+      ],
+      "network": "632c5121e1d4ae1a6dd73b41",
+      "unit": "wei",
+      "contractAddress": "0x05EC513a7884Da8BE162a3B9E254Adabcbad2f8d",
+      "createdAt": "2022-02-16T09:16:28.000Z",
+      "mediaType": "image",
+      "thumbnailFormat": "png",
+      "tokenName": "ETH",
+      "id": "632c519d55163e21cf7372bd"
+    },
+    "marketplace": null,
+    "network": {
+      "name": "Goerli",
+      "displayName": "Ethereum (Goerli)",
+      "createdAt": "2022-09-22T12:12:17.426Z",
+      "chainId": "5",
+      "blockExplorerUrl": "https://goerli.etherscan.io",
+      "rpcUrl": "https://goerli.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
+      "tokenName": "ETH",
+      "tokenImage": "https://nft-thumbnail-test.s3.ap-south-1.amazonaws.com/tokens/ethereum.png",
+      "auctionContractAddress": "0xefD911978E1CF630b78a8eEe2cA6202c4aD2B3f3",
+      "marketplaceContractAddress": "0xDE65e4315DAEee068dD35Ff2Ec0B633eab2d15e9",
+      "id": "632c5121e1d4ae1a6dd73b41"
+    },
+    "createdAt": "2022-10-12T05:32:56.993Z",
+    "isOnAuction": false,
+    "id": "6346518843cbcb3f90d83baa"
+  },
+  {
+    "tokenId": 102,
+    "name": "Arun S G ",
+    "ownerAddress": "0xb419d78BC0EC428A9b5Dd0693E329f6B972A1f85",
+    "isOnSale": false,
+    "metadata": {
+      "name": "Arun S G",
+      "image": "https://bafybeidr5rzz433s7tcn4pzcbjs427b7z2aa3xdi4cj46jdwj7xsf2vsxm.ipfs.nftstorage.link/102.png",
+      "description": "Manager",
+      "attributes": [
+        {
+          "traitType": "Background",
+          "value": "Gray Green",
+          "_id": "6346518843cbcb3f90d83c91"
+        },
+        {
+          "traitType": "Body",
+          "value": "Skin",
+          "_id": "6346518843cbcb3f90d83c92"
+        },
+        {
+          "traitType": "Dress",
+          "value": "Grey",
+          "_id": "6346518843cbcb3f90d83c93"
+        },
+        {
+          "traitType": "Head",
+          "value": "Light Brown",
+          "_id": "6346518843cbcb3f90d83c94"
+        },
+        {
+          "traitType": "Eey",
+          "value": "Surprised",
+          "_id": "6346518843cbcb3f90d83c95"
+        },
+        {
+          "traitType": "Hat",
+          "value": "Dark Brown Hat",
+          "_id": "6346518843cbcb3f90d83c96"
+        },
+        {
+          "traitType": "Mouth",
+          "value": "Angry",
+          "_id": "6346518843cbcb3f90d83c97"
+        },
+        {
+          "traitType": "Nose",
+          "value": "Brown",
+          "_id": "6346518843cbcb3f90d83c98"
+        }
+      ],
+      "_id": "6346518843cbcb3f90d83c90"
+    },
+    "thumbnailImage": "https://nft-thumbnail-test.s3.ap-south-1.amazonaws.com/lazy_lion/94.png",
+    "collectionItem": {
+      "collectionName": "Lazy Lion NFT",
+      "dailyhours": "10hr",
+      "weeklyhours": "18hr",
+      "monthlyhours": "150hr",
+      "collectionImage": "https://nft-thumbnail-test.s3.ap-south-1.amazonaws.com/lazy_lion/0.png",
+
+      "mintingStatus": "enabled",
+      "isWhitelistMint": true,
+      "metadataURI": "https://bafybeidzqannycv6o3ekz45gmsvwema2sfqe4rpmdti5qfvzn4v26lu2mu.ipfs.nftstorage.link/",
+      "thumbnailBaseURI": "https://nft-thumbnail-test.s3.ap-south-1.amazonaws.com/lazy_lion/",
+      "royalty": 10,
+      "traitTypes": [
+        {
+          "traitType": "Background",
+          "values": ["Blue", "Pink", "Green", "Bat", "Purple", "Red", "Orange"],
+          "id": "632c519d55163e21cf7372be"
+        },
+        {
+          "traitType": "Fur",
+          "values": [
+            "Purple",
+            "Green",
+            "Blue",
+            "Red",
+            "Yellow",
+            "Gray",
+            "Black",
+            "Orange"
+          ],
+          "id": "632c519d55163e21cf7372bf"
+        },
+        {
+          "traitType": "Eyes",
+          "values": ["Open", "Angry", "Happy", "Wink", "Chill", "Proud"],
+          "id": "632c519d55163e21cf7372c0"
+        },
+        {
+          "traitType": "Mouth",
+          "values": ["Happy", "Sad", "Smile", "Confused", "Thinking", "Mad"],
+          "id": "632c519d55163e21cf7372c1"
+        },
+        {
+          "traitType": "Clothes",
+          "values": [
+            "None",
+            "T-Shirt",
+            "Shirt",
+            "Suit",
+            "Vest",
+            "Coat",
+            "Shape 1"
+          ],
+          "id": "632c519d55163e21cf7372c2"
+        }
+      ],
+      "network": "632c5121e1d4ae1a6dd73b41",
+      "unit": "wei",
+      "contractAddress": "0x05EC513a7884Da8BE162a3B9E254Adabcbad2f8d",
+      "createdAt": "2022-02-16T09:16:28.000Z",
+      "mediaType": "image",
+      "thumbnailFormat": "png",
+      "tokenName": "ETH",
+      "id": "632c519d55163e21cf7372bd"
+    },
+    "marketplace": null,
+    "network": {
+      "name": "Goerli",
+      "displayName": "Ethereum (Goerli)",
+      "createdAt": "2022-09-22T12:12:17.426Z",
+      "chainId": "5",
+      "blockExplorerUrl": "https://goerli.etherscan.io",
+      "rpcUrl": "https://goerli.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
+      "tokenName": "ETH",
+      "tokenImage": "https://nft-thumbnail-test.s3.ap-south-1.amazonaws.com/tokens/ethereum.png",
+      "auctionContractAddress": "0xefD911978E1CF630b78a8eEe2cA6202c4aD2B3f3",
+      "marketplaceContractAddress": "0xDE65e4315DAEee068dD35Ff2Ec0B633eab2d15e9",
+      "id": "632c5121e1d4ae1a6dd73b41"
+    },
+    "createdAt": "2022-10-12T05:32:56.993Z",
+    "isOnAuction": false,
+    "id": "6346518943cbcb3f90d83c9a"
+  }
+]

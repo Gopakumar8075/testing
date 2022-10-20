@@ -1,0 +1,5 @@
+{
+  "components": {
+    "nftMarketplace": "./node_modules/@sls-next/serverless-component"
+  }
+}
