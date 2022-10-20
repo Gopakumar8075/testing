@@ -29,10 +29,10 @@ export default function NftFooter() {
                 'text-[24px] font-ethnocentric font-extrabold text-white '
               }
             >
-              OWN
+              Moon
             </span>
             <span className="text-[24px] font-ethnocentric font-extrabold text-headerorange">
-              NFT
+              Hive
             </span>
           </div>
           <div className="lg:w-1/2 mx-auto 2xs:w-[80%] ">
