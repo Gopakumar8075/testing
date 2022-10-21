@@ -8,7 +8,7 @@ const MarketplaceDescription = ({ description, properties }) => {
       className="xs:w-[25rem] border-[#313949] text-white flex flex-col gap-4 border rounded-b-lg height-[400px]
    bg-[#15171E] border-transparent"
     >
-      <div className="  p-6 border-[#313949]  height-[100px] 2xs:hidden  ">
+      <div className="  p-6 border-[#313949]  height-[100px] 2xs:hidden lg:block  ">
         <h6 className="text-[#FEFEFE] md:text-[16px] font-ralewaysemibold">
           Designation
         </h6>
