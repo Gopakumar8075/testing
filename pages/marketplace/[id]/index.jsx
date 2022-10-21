@@ -39,7 +39,7 @@ const Index = (props) => {
 
   const getdata = async () => {
     const response = await axios.get(
-      `${NEXT_PUBLIC_BASE_URL}individualpage.json`
+      `https://test96332.herokuapp.com/individualpage.json`
     );
     console.log(response, 'response');
 
