@@ -94,7 +94,7 @@ const Marketplace = () => {
           className="flex bg-marketplacebackground 
           bg-no-repeat "
         >
-          <div>
+          <div className="hidden">
             {['left'].map((anchor) => (
               <div
                 key={anchor}
