@@ -23,7 +23,7 @@ const getData = async (
       ? `isOnSale=true`
       : '';
     let url = `?search=${search}&collectionItem=${collectionItem}&network=${chainID}&page=${page}&sortBy=${sortBy}${asc}&${types}`;
-    const response = await axios.get(`${NEXT_PUBLIC_BASE_URL}mockapicall.json`);
+    const response = await axios.get(`https://test96332.herokuapp.com/mockapicall.json`);
     console.log(response, 'marketplace api');
     page === 1
       ? setNftCollection(response)
